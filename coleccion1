@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<passages>
+    <passage>
+        <description>
+            <idPassage>11</idPassage>
+            <documentType>expository</documentType>
+            <area>biology</area>
+            <topic>mammals</topic>
+        </description>
+        <paragraphs>
+            <paragraph>
+                <id_paragraph>1</id_paragraph>
+                <paragraphText>All mammals feed their young. Beluga whale mothers, for example, nurse their calves for
+                    some twenty months, until they are about to give birth again and their young are able to
+                    find their own food. The behavior of feeding of the young is built into the reproductive
+                    system. It is a nonelective part of parental care and the defining feature of a mammal, the
+                     most important thing that mammals-- whether marsupials, platypuses, spiny anteaters, or
+                    placental mammals -- have in common.
+ </paragraphText>
+                <sentences>
+                    <sentence>
+                        <sentenceText>It is a nonelective part of parental care and the defining feature of a mammal, the
+                            most important thing that mammals-- whether marsupials, platypuses, spiny anteaters, or
+                            placental mammals -- have in common.</sentenceText>
+                        <semanticRelation>ClassInclusion/Hyponym</semanticRelation>
+                        <context>no</context>
+                        <assertion>hyponym(mammals,marsupials)</assertion>
+                        <assertion>hyponym(mammals,platypuses)</assertion>
+                        <assertion>hyponym(mammals,pinyAnteaters)</assertion>
+                        
+                    </sentence>
+                   
+                   
+                </sentences>
+            </paragraph>
+            <paragraph>
+                <id_paragraph>2</id_paragraph>
+                <paragraphText> For animals other than mammals, then, feeding is not intrinsic to parental care. Animals
+                    add it to their reproductive strategies to give them an edge in their lifelong quest for
+                    descendants. The most vulnerable moment in any animal's life is when it first finds itself
+                    completely on its own, when it must forage and fend for itself. Feeding postpones that
+                    (20)    moment until a young animal has grown to such a size that it is better able to cope. Young
+                    that are fed by their parents become nutritionally independent at a much greater fraction
+                    of their full adult size. And in the meantime those young are shielded against the vagaries
+                    of fluctuating of difficult-to-find supplies. Once a species does take the step of feeding its
+                    young, the young become totally dependent on the extra effort. If both parents are 
+                    (25)    removed, the young generally do no survive.
+
+</paragraphText>
+            
+        </paragraph>
+            <paragraph>
+                <id_paragraph>3</id_paragraph>
+        <paragraphText> But not all animal parents, even those that tend their offspring to the point of hatching or
+            birth, feed their young. Most egg-guarding fish do not, for the simple reason that their
+            young are so much smaller than the parents and eat food that is also much smaller than
+            the food eaten by adults. In reptiles, the crocodile mother protects her young after they
+            have hatched and takes them down to the water, where they will find food, but she does
+            not actually feed them. Few insects feed their young after hatching, but some make other
+            arrangement, provisioning their cells and nests with caterpillars and spiders that they have
+            paralyzed with their venom and stored in a state of suspended animation so that their
+            larvae might have a supply of fresh food when they hatch.
+        </paragraphText>
+        <sentences>
+            <sentence>
+                <sentenceText>In reptiles, the crocodile mother protects her young after they
+                    have hatched and takes them down to the water, where they will find food, but she does
+                    not actually feed them.</sentenceText>
+                <semanticRelation>ClassInclusion/Hyponym</semanticRelation>
+                <context>no</context>
+                <assertion>hyponym(reptiles,crocodile)</assertion>
+              
+            </sentence>
+        </sentences>
+    </paragraph>
+    
+        </paragraphs>
+    
+    
+        <questionAnswerBlock>
+            <questions>
+                <question>
+                    <questionText>The word "provisioning" in line 13 is closest in meaning to  </questionText>
+                    <answers>
+                        <answer>
+                            <answerText>supplying	</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>synonym(provisioning,supplying)</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>preparing	</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>building	</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>expanding</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+
+                    </answers>
+                </question>
+              
+            </questions>
+        </questionAnswerBlock>
+    </passage>
+</passages>
