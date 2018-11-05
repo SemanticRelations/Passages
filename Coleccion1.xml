@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<passages>
+    <passage>
+        <description>
+            <idPassage>470</idPassage>
+            <documentType>narrative</documentType>
+            <area>history</area>
+            <topic>baseball</topic>
+        </description>
+        <paragraphs>
+            <paragraph>
+                <id_paragraph>1</id_paragraph>
+                <paragraphText>Baseball evolved from a number of different ball-and-stick games (paddle ball, trap ball, one-old-cat, rounders, and town ball) originating in England. As early as the American Revolution, it was noted that troops played “base ball” in their free time. In 1845 Alexander Cartwright formalized the New York Knickerbockers version of the game: a diamond shaped infield, with bases ninety feet apart, three strikes-you’re-out, batter out on a caught ball, three outs per inning, a nine man team. The New York Game spread rapidly, replacing earlier localized forms. From its beginnings, baseball was seen as a way of satisfying the recreational needs of an increasingly urban-industrial society. At its inception it was played by and for wealthy gentlemen. A club might consist of 40 members. The president would appoint two captains who would choose teams from among the members. Games were played on Monday and Thursday afternoons, with the losers often providing a lavish evening’s entertainment for the winners. </paragraphText>
+                <sentences>
+                    <sentence>
+                        <sentenceText>Baseball evolved from a number of different ball-and-stick games (paddle ball, trap ball, one-old-cat, rounders, and town ball) originating in England.</sentenceText>
+                        <semanticRelation>ClassInclusion/Hyponym</semanticRelation>
+                        <context>no</context>
+                        <assertion>hyponym(baseball,paddleBall)</assertion>
+                          <assertion>hyponym(baseball,trapBall)</assertion>
+                           <assertion>hyponym(baseball,oneOldCat)</assertion>
+                            <assertion>hyponym(baseball,rounders) and town ball)</assertion>
+                             <assertion>hyponym(baseball,townBall)</assertion>
+                    </sentence>
+                    <sentence>
+                        <sentenceText>In 1845 Alexander Cartwright formalized the New York Knickerbockers version of the game: a diamond shaped infield, with bases ninety feet apart, three strikes-you’re-out, batter out on a caught ball, three outs per inning, a nine man team.</sentenceText>
+                        <semanticRelation>PartWhole/ObjectComponent</semanticRelation>
+                        <context>games</context>
+                        <assertion>component(Baseball,diamondShapedInfield)</assertion>
+                          <assertion>component(Baseball,basesNinetyFeetApart)</assertion>
+                           <assertion>component(Baseball,threeStrikes)</assertion>
+                             <assertion>component(Baseball, batterOutCaughtBall)</assertion>
+                              <assertion>component(Baseball, nineManTeam)</assertion>
+                                   <assertion>component(Baseball,ThreeOutsInning)</assertion>
+                    </sentence>
+                    <sentence>
+                        <sentenceText>From its beginnings, baseball was seen as a way of satisfying the recreational needs of an increasingly urban-industrial society.</sentenceText>
+                        <semanticRelation>ClassInclusion/Hyperonym</semanticRelation>
+                        <context>recreation</context>
+                        <assertion>hyperonym(baseball,recreationalNeed)</assertion>
+                    </sentence>
+                </sentences>
+            </paragraph>
+            <id_paragraph>2</id_paragraph>
+            <paragraphText> During the 1850-70 period the game was changing, however, with increasing commercialism (charging admission), under the table payments to exceptional players, and gambling on the outcome of games. By 1868 it was said that a club would have their regular professional ten, an amateur first-nine, and their muffins (the gentlemanly duffers who once ran the game). Beginning with the first openly all-salaried team (Cincinnati’s Red Stocking Club) in 1869, the 1870-1890 period saw the complete professionalization of baseball, including formation of the National Association of Professional Baseball Players in 1871. The National League of Professional Base Ball Clubs was formed in 1876, run by business-minded investors in joint-stock company clubs. The 1880s has been called Major League Baseball Golden Age. Profits soared, player’s salaries rose somewhat, a season of 84 games became one of 132, a weekly periodical “The Sporting News” came into being, wooden stadiums with double-deck stands replaced open fields, and the standard refreshment became hot dogs, soda pop and peanuts. In 1900 the Western League based in the growing cities of the Midwest proclaimed itself the American League</paragraphText>
+            <sentences>
+                <sentence>
+                    <sentenceText>By 1868 it was said that a club would have their regular professional ten, an amateur first-nine, and their “muffins” (the gentlemanly duffers who once ran the game)</sentenceText>
+                    <semanticRelation>ClassInclusion/Hyponym</semanticRelation>
+                    <context>games</context>
+                    <assertion>hyponym(club,regular)</assertion>
+                     <assertion>hyponym(club,amateur)</assertion>
+                      <assertion>hyponym(club,muffin)</assertion>
+                </sentence>
+            </sentences>
+        </paragraph>
+        </paragraphs>
+        <questionAnswerBlock>
+            <questions>
+                <question>
+                    <questionText>The word inception in line 9 is closest in meaning to </questionText>
+                    <answers>
+                        <answer>
+                            <answerText>requirements</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>beginning</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>stage</context>
+                            <assertion>synonym(inception,beginning)</assertion>
+                        </answer>
+                        <answer>
+                            <answerText> insistence</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>rules</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                    </answers>
+                </question>
+                <question>
+                    <questionText>The word lavish in line 12 is closest in meaning to </questionText>
+                    <answers>
+                        <answer>
+                            <answerText>prolonged</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>quantity</context>
+                            <assertion>synonym(lavish,prolonged)</assertion>
+                        </answer>
+                        <answer>
+                            <answerText> very generous</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>grand</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>size</context>
+                            <assertion>synonym(lavish,grand)</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>extensive</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>duration</context>
+                            <assertion>synonym(lavish,extensive)</assertion>
+                        </answer>
+                    </answers>
+                </question>
+            </questions>
+        </questionAnswerBlock>
+    </passage>
+    
+    <passage>
+        <description>
+            <idPassage>480</idPassage>
+            <documentType>expository</documentType>
+            <area>history</area>
+            <topic>art</topic>
+        </description>
+        <paragraphs>
+            <paragraph>
+                <id_paragraph>1</id_paragraph>
+                <paragraphText>Exquisite patterns and surface ornamentation were an integral part of the aesthetics of the late Victorian era. In America, these developments were incorporated into the themes of national expositions and artistic movements, as cottage industries grew and productivity in the decorative arts flourished. The last three decades of the 19th century saw a change in sensibility that resulted in new stylistic approaches in American decorative arts, a departure from the previous era of Rococo and Renaissance Revival excess. Shapes became more angular, smoother and less flamboyant. The popular carvings and deep modeling of earlier years disappeared as ornamentation became more linear and lighter in appearance. Decoration focused on the surface with rich and elegant patterns adorning furniture, objects of every sort, and architectural and interior decorations. This artistic reawakening was prompted by the effects of the Industrial Revolution on contemporary design. </paragraphText>
+                <sentences>
+                    <sentence>
+                        <sentenceText>Exquisite patterns and surface ornamentation were an integral part of the aesthetics of the late Victorian era</sentenceText>
+                        <semanticRelation>PartWhole/ObjectComponent</semanticRelation>
+                        <context>art</context>
+                        <assertion>component(aesthetics,exquisitePatterns)</assertion>
+                        <assertion>component(aesthetics,surfaceOrnamentation)</assertion>
+                    </sentence>
+                </sentences>
+            </paragraph>
+            <paragraph>
+                <id_paragraph>2</id_paragraph>
+                <paragraphText>This new attitude, with its focus on ornament and the decorative, was later referred to as the Aesthetic Movement, but it also encompassed the early Arts and Crafts Movement as well. The purpose was to bring a refined sensibility and components of good taste to the domestic interior. Art and good taste not only denoted good character, but also could be used to induce proper moral conduct and actions, thereby contributing to the betterment of society. This placed a heavy burden on designers/decorators as well as on women as keepers of the home. Americans drew inspiration from the writing and work of English artists. This was a period of great eclecticism. Tastes ranged from the Modern Gothic through the Persian, Greek and Islamic, to the Japanese, and with more than a nod to Mother Nature. Yet, regardless of the influence, surface pattern reigned supreme. English reformers dictated that ornament should be derived from nature, and pattern should be flat and stylized. Forms were accentuated by colored outlines, or often with touches of gold. The emphasis was on art and on development of a refined sensibility. It was all a matter of taste.</paragraphText>
+                <sentences>
+                </sentences>
+            </paragraph>
+        </paragraphs>
+        <questionAnswerBlock>
+            <questions>
+                <question>
+                    <questionText>The word elegant in line 9 is closest in meaning to </questionText>
+                    <answers>
+                        <answer>
+                            <answerText>beautiful</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>ornamental</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>colorful</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>refined</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>status</context>
+                            <assertion>synonym(elegant,refined)</assertion>
+                        </answer>
+
+                    </answers>
+                </question>
+                <question>
+                    <questionText>The word denoted in line 16 is closest in meaning to </questionText>
+                    <answers>
+                        <answer>
+                            <answerText>promoted</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>facilitated</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>developed</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>signified</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>semantic</context>
+                            <assertion>synonym(denoted,signified)</assertion>
+
+                        </answer>
+                    </answers>
+                </question>
+            </questions>
+        </questionAnswerBlock>
+    </passage>
+</passages>
