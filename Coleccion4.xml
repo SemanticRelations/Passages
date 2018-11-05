@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<passages>
+    <passage>
+        <description>
+            <idPassage>41</idPassage>
+            <documentType>expository</documentType>
+            <area>biology</area>
+            <topic>bacterias</topic>
+        </description>
+        <paragraphs>
+            <paragraph>
+                <id_paragraph>1</id_paragraph>
+                <paragraphText>Bacteria are extremely small living things. While we measure our own sizes in inches or centimeters, bacterial size is measured in microns. One micron is a thousandth of a millimeter a pinhead is about a millimeter across. Rod shaped bacteria are usually from two to tour microns long, while rounded ones are generally one micron in diameter. Thus if you enlarged a founded bacterium a thousand times, it would be just about the size of a pinhead. An adult human magnified by the same amount would be over a mile(1.6 kilometers) tall.
+ </paragraphText>
+                <sentences>
+                    <sentence>
+                        <sentenceText>Bacteria are extremely small living things.</sentenceText>
+                        <semanticRelation>ClassInclusion/Hyponym</semanticRelation>
+                        <context>no</context>
+                        <assertion>hyponym(living things,bacterias)</assertion>
+                      
+                        
+                    </sentence>
+                    <sentence>
+                        <sentenceText>Rod shaped bacteria are usually from two to tour microns long, while rounded ones are generally one micron in diameter. </sentenceText>
+                        <semanticRelation>ClassInclusion/Hyponym</semanticRelation>
+                        <context>no</context>
+                        <assertion>hyponym(bacterias,rodShapedBacteria)</assertion>
+                        
+                        
+                    </sentence>
+                
+            
+                </sentences>
+            </paragraph>
+            <paragraph>
+                <id_paragraph>2</id_paragraph>
+                <paragraphText> Even with an ordinary microscope, you must look closely to see bacteria. Using a magnification of 100 times, one finds that bacteria are barely visible as tiny rods or dots. One cannot make out anything of their structure. Using special stains, one can see that some. Others have only one flagellum. The flagella rotate, pushing the bacteria though the water. Many bacteria lack flagella and cannot move about by their own power while others can glide along over surfaces by some little understood mechanism.
+
+</paragraphText>
+                 <sentences>
+                <sentence>
+                    <sentenceText> Using a magnification of 100 times, one finds that bacteria are barely visible as tiny rods or dots.</sentenceText>
+                    <semanticRelation>Similar/Synonym</semanticRelation>
+                    <context>no</context>
+                    <assertion>synonym(bacteria, tinyRods)</assertion>
+                     <assertion>synonym(bacteria, dots)</assertion>
+                     
+                       </sentence>
+                 <sentences>
+        </paragraph>
+            <paragraph>
+                <id_paragraph>3</id_paragraph>
+        <paragraphText> From the bacterial point of view, the world is a very different place from what it is to humans. To a bacterium water is as thick as molasses is to us. Bacteria are so small that they are influenced by the movements of the chemical molecules around them. Bacteria under the microscope, even those with no flagella, often bounce about in the water. This is because they collide with the water molecules and are pushed this way and that. Molecules move so rapidly that within a tenth of a second the molecules around a bacterium have all been replaced by new ones even bacteria without flagella are thus constantly exposed to a changing environment.
+        </paragraphText>
+        <sentences>
+           
+        </sentences>
+    </paragraph>
+    
+        </paragraphs>
+    
+    
+        <questionAnswerBlock>
+            <questions>
+                <question>
+                    <questionText>According to the passage, someone who examines bacteria using only a microscope that magnifies 100 times would see </questionText>
+                    <answers>
+                        <answer>
+                            <answerText>tiny dots
+	</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>synonym(bacterias,tinyDots)</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>small "hairs"
+                                	</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>large rods			</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>detailed structures</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+
+                    </answers>
+                </question>
+                <question>
+                    <questionText>The relationship between a bacterium and its flagella is most nearly analogous to which of the following?
+ </questionText>
+                    <answers>
+                        <answer>
+                            <answerText> A rider jumping on a horse's back
+                            </answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>A ball being hit by a bat
+                               
+                            </answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        <answer>
+                            <answerText> A boat powered by a motor			</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>movement</context>
+                            
+                            <assertion>synonym(bacteria,boat)</assertion>
+                            <assertion>synonym(flagella,motor)</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>A door closed by a gust of wind</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>component</context>
+                            <assertion>no</assertion>
+
+                        </answer>
+                        
+                    </answers>
+                </question>
+            </questions>
+        </questionAnswerBlock>
+    </passage>
+    
+    <!--- pasaje 42 -->
+    
+    
+    <passage>
+        <description>
+            <idPassage>42</idPassage>
+            <documentType>argumentative</documentType>
+            <area>literature</area>
+            <topic>writer woman </topic>
+        </description>
+        <paragraphs>
+            <paragraph>
+                <id_paragraph>1</id_paragraph>
+                <paragraphText>One of the most popular literary figures in American literature is a woman who spent almost half of her long life in China, a country on a continent thousands of miles from the United States. In her lifetime she earned this country's most highly acclaimed literary award: the Pulitzer Prize, and also the most prestigious form of literary recognition in the world, the Nobel Prize for Literature. Pearl S. Buck was almost a household word throughout much of her lifetime because of her prolific literary output, which consisted of some eighty - five published works, including several dozen novels, six collections of short stories, fourteen books for children, and more than a dozen works of nonfiction. When she was eighty years old, some twenty - five volumes were awaiting publication. Many of those books were set in China, the land in which she spent so much of her life. Her books and her life served as a bridge between the cultures of the East and the West. As the product of those two cultures she became as the described herself, "mentally bifocal." Her unique background made her into an unusually interesting and versatile human being. As we examine the life of Pearl Buck, we cannot help but be aware that we are in fact meeting three separate people: a wife and mother, an internationally famous writer and a humanitarian and philanthropist. One cannot really get to know Pearl Buck without learning about each of the three. Though honored in her lifetime with the William Dean Howell Medal of the American Academy of Arts and Letters in addition to the Nobel and Pulitzer prizes. Pearl Buck as a total human being, not only a famous author. is a captivating subject of study.
+                </paragraphText>
+                <sentences>
+                    <sentence>
+                        <sentenceText> As we examine the life of Pearl Buck, we cannot help but be aware that we are in fact meeting three separate people: a wife and mother, an internationally famous writer and a humanitarian and philanthropist. </sentenceText>
+                        <semanticRelation>CausePurpose/AgentGoal</semanticRelation>
+                        <context>no</context>
+                        <assertion>agentGoal(woman, wife)</assertion>
+                        <assertion>agentGoal(woman, mother)</assertion>
+                         <assertion>agentGoal(woman, famousWriter)</assertion>
+                          <assertion>agentGoal(woman, philanthropist)</assertion>
+                          
+                    </sentence>
+            </sentences>
+        </paragraph>
+        
+        </paragraphs>
+        
+        
+        <questionAnswerBlock>
+            <questions>
+            </questions>
+        </questionAnswerBlock>
+    </passage>
+
+<!--- pasaje 43 -->
+<passage>
+    <description>
+        <idPassage>43</idPassage>
+        <documentType>expository</documentType>
+        <area>astronomy</area>
+        <topic>stars</topic>
+    </description>
+    <paragraphs>
+        <paragraph>
+            <id_paragraph>1</id_paragraph>
+            <paragraphText>When we accept the evidence of our unaided eyes and describe the Sun as a yellow star, we have summed up the most important single fact about it-at this moment in time.
+            </paragraphText>
+            <sentences>
+                <sentence>
+                    <sentenceText>hen we accept the evidence of our unaided eyes and describe the Sun as a yellow star</sentenceText>
+                    <semanticRelation>ClassInclusion/Hyponym</semanticRelation>
+                    <context>no</context>
+                    <assertion>hyponym(star,sun)</assertion>
+                    
+                    
+                </sentence>
+              
+              
+                
+            </sentence>
+        </sentences>
+    </paragraph>
+    <paragraph>
+        <id_paragraph>2</id_paragraph>
+        <paragraphText> It appears probable, however, that sunlight will be the color we know for only a negligibly small part of the Sun's history. Stars, like individuals, age and change. As we look out into space, We see around us stars at all stages of evolution. There are faint blood-red dwarfs so cool that their surface temperature is a mere 4,000 degrees Fahrenheit, there are searing ghosts blazing at 100, 000 degrees Fahrenheit and almost too hot to be seen, for the great part of their radiation is in the invisible ultraviolet range. Obviously, the "daylight" produced by any star depends on its temperature; today(and for ages to come) our Sun is at about 10,000 degrees Fahrenheit, and this means that most of the Sun's light is concentrated in the yellow band of the spectrum, falling slowly in intensity toward both the longer and shorter light waves.
+            
+            
+        </paragraphText>
+        
+     <sentences>
+          </sentences>
+    </paragraph>
+        <paragraph>
+            <id_paragraph>3</id_paragraph>
+            <paragraphText>
+                That yellow "hump" will shift as the Sun evolves, and the light of day will change accordingly. It is natural to assume that as the Sun grows older, and uses up its hydrogen fuel-which it is now doing at the spanking rate of half a billion tons a second- it will become steadily colder and redder.
+                
+            </paragraphText>
+            <sentences>
+            <sentence>
+                <sentenceText> It is natural to assume that as the Sun grows older, and uses up its hydrogen fuel-which it is now doing at the spanking rate of half a billion tons a second- it will become steadily colder and redder.</sentenceText>
+                <semanticRelation>PartWhole/ObjectComponent</semanticRelation>
+                <context>no</context>
+                <assertion>component(sun, hydrogen)</assertion>
+              
+                
+                </sentences>
+            </paragraph>
+
+        
+    </paragraphs>
+    
+    
+    <questionAnswerBlock>
+        <questions>
+            <question>
+                <questionText>Why are very hot stars referred to as "ghosts"?
+                    
+ </questionText>
+                <answers>
+                    <answer>
+                        <answerText>They are short- lived.
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>They are mysterious.
+                           
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> They are frightening. 			</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>They are nearly invisible.	</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>high temperature</context>
+                        <assertion>synonym(star,ghost)</assertion>
+                    </answer>
+                    
+                </answers>
+            </question>
+                   </questions>
+    </questionAnswerBlock>
+</passage>
+<!--- pasaje 44 -->
+<passage>
+    <description>
+        <idPassage>44</idPassage>
+        <documentType>narrative</documentType>
+        <area>history</area>
+        <topic>suburbs</topic>
+    </description>
+    <paragraphs>
+        <paragraph>
+            <id_paragraph>1</id_paragraph>
+            <paragraphText>          If by "suburb" is meant an urban margin that grows more rapidly than its already developed interior, the process of suburbanization began during the emergence of the industrial city in the second quarter of the nineteenth century. Before that period the city was a small highly compact cluster in which people moved about on foot and goods were conveyed by horse and cart. But the early factories built in the 1830's and 1840's were located along waterways and near railheads at the edges of cities, and housing was needed for the thousands of people drawn by the prospect of employment. In time, the factories were surrounded by proliferating mill towns of apartments and row houses that abutted the older, main cities. As a defense against this encroachment and to enlarge their tax bases, the cities appropriated their industrial neighbors. In 1854, for example, the city of Philadelphia annexed most of Philadelphia County. Similar municipal maneuvers took place in Chicago and in New York Indeed, most great cities of the United States achieved such status only by incorporating the communities along their borders.
+            </paragraphText>
+            <sentences>
+                <sentence>
+                    <sentenceText> If by "suburb" is meant an urban margin that grows more rapidly than its already developed interior</sentenceText>
+                    <semanticRelation>ClassInclusion/Hyponym</semanticRelation>
+                    <context>no</context>
+                    <assertion>hyponym(urbanMargin,suburb)</assertion>
+                    
+                    
+                </sentence>
+                <sentence>
+                    <sentenceText>Before that period the city was a small highly compact cluster in which people moved about on foot and goods were conveyed by horse and cart. </sentenceText>
+                    <semanticRelation> SpaceTime/TimeAction"</semanticRelation>
+                    <context>no</context>
+                    <assertion>period(beforeIndustry,peopleMoveOnFoot)</assertion>
+                    
+                    
+                </sentence>
+                <sentence>
+                    <sentenceText>But the early factories built in the 1830's and 1840's were located along waterways and near railheads at the edges of cities, and housing was needed for the thousands of people drawn by the prospect of employment. </sentenceText>
+                    <semanticRelation> SpaceTime/TimeAction"</semanticRelation>
+                    <context>no</context>
+                    <assertion>period(duringIndustry,houseGeneration)</assertion>
+                    
+                    
+                </sentence>
+                
+            </sentences>
+        </paragraph>
+        <paragraph>
+            <id_paragraph>2</id_paragraph>
+            <paragraphText> With the acceleration of industrial growth came acute urban crowding and accompanying social stress conditions that began to approach disastrous proportions when, in 1888, the first commercially successful electric traction line was developed. Within a few years the horse - drawn trolleys were retired and electric streetcar networks crisscrossed and connected every major urban area, fostering a wave of suburbanization that transformed the compact industrial city into a dispersed metropolis. This first phase of mass - scale suburbanization was reinforced by the simultaneous emergence of the urban Middle class whose desires for homeownership In neighborhoods far from the aging inner city were satisfied by the developers of single-family housing tracts.
+                
+            </paragraphText>
+             <sentences>
+            <sentence>
+                <sentenceText> Within a few years the horse - drawn trolleys were retired and electric streetcar networks crisscrossed and connected every major urban area, fostering a wave of suburbanization that transformed the compact industrial city into a dispersed metropolis.</sentenceText>
+                <semanticRelation>CausePurpose/CauseEffect</semanticRelation>
+                <context>no</context>
+                <assertion>effect(suburbs, metropolis)</assertion>
+                
+            </sentence>
+             </sentences>
+        </paragraph>
+        
+    </paragraphs>
+    
+    
+    <questionAnswerBlock>
+        <questions>
+            <question>
+                <questionText>In line 10 the word "encroachment" refers to which of the following?
+                   
+                    
+                    
+</questionText>
+                <answers>
+                    <answer>
+                        <answerText> The smell of the factories
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>The growth of mill towns
+                          
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>property</context>
+                        <assertion>synonym(encroachment,millTowns)</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>   The development of waterways		</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>The loss of jobs		</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    
+                </answers>
+            </question>
+            <question>
+                <questionText> Which of the following was NOT mentioned in the passage as a factor in nineteenth-century suburbanization?
+                   
+                </questionText>
+                <answers>
+                    <answer>
+                        <answerText>  Cheaper housing
+                        </answerText>
+                        <semanticRelation>CausePurpose/CauseEffect</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> Urban crowding
+                           
+                            
+                        </answerText>
+                        <semanticRelation>CausePurpose/CauseEffect</semanticRelation>
+                        <context>no</context>
+                        <assertion>effect(suburbanization,urbanCrowding)</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>  The advent of an urban middle class 		</answerText>
+                        <semanticRelation>CausePurpose/CauseEffect</semanticRelation>
+                        <context>no</context>
+                        
+                        <assertion>effect(suburbanization,urbanCrowding)</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> The invention of the electric streetcar		</answerText>
+                        <semanticRelation>CausePurpose/CauseEffect</semanticRelation>
+                        <context>no</context>
+                        <assertion>effect(suburbanization,electricStreetcar)</assertion>
+                        
+                    </answer>
+                    
+                </answers>
+            </question>
+        </questions>
+    </questionAnswerBlock>
+</passage>
+
+<!--- pasaje 45 -->
+<passage>
+    <description>
+        <idPassage>45</idPassage>
+        <documentType>narrative</documentType>
+        <area>history</area>
+        <topic>colonization</topic>
+    </description>
+    <paragraphs>
+        <paragraph>
+            <id_paragraph>1</id_paragraph>
+            <paragraphText>The first English attempts to colonize North America were controlled by individuals rather than companies. Sir Humphrey Gilbert was the first Englishman to send colonists to the New World. His initial expedition, which sailed in 1578 with a patent granted by Queen Elizabeth was defeated by the Spanish. A second attempt ended in disaster in 1583, when Gilbert and his
+                ship were lost in a storm. In the following year, Gilbert's half brother, Sir Water Raleigh, having obtained a renewal of the patent, sponsored an expedition that explored the coast of the region that he named "Virginia." Under Raleigh's direction efforts were then made to establish a colony on Roanoke island in 1585 an6 1587. The survivors of the first settlement on Roanoke returned to England in 1586, but the second group of colonists disappeared without leaving a trace. The failure of the Gilbert and Raleigh ventures made it clear that the tasks they had undertaken were too big for any one colonizer. Within a short time the trading company had supplanted the individual promoter of colonization.
+            </paragraphText>
+            <sentences>
+                <sentence>
+                    <sentenceText>Sir Humphrey Gilbert was the first Englishman to send colonists to the New World. </sentenceText>
+                    <semanticRelation>CausePurpose/AgentGoal</semanticRelation>
+                    <context>no</context>
+                 <assertion>agentGoal(sirHumphreyGilbert, colonizeNorthAmerica)</assertion>
+                    
+                    
+                </sentence>
+              
+                
+                
+            </sentences>
+        </paragraph>
+        
+    </paragraphs>
+    
+    
+    <questionAnswerBlock>
+        <questions>
+                    </questions>
+    </questionAnswerBlock>
+</passage>
+
+<!--- pasaje 46 -->
+
+
+
+
+
+</passages>

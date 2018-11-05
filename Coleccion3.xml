@@ -1,0 +1,1493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<passages>
+    <passage>
+        <description>
+            <idPassage>31</idPassage>
+            <documentType>narrative</documentType>
+            <area>history</area>
+            <topic>conventions</topic>
+        </description>
+        <paragraphs>
+            <paragraph>
+                <id_paragraph>1</id_paragraph>
+                <paragraphText>Hotels were among the earliest facilities that bound the United States together. They
+                    were both creatures and creators of communities, as well as symptoms of the frenetic
+                    quest for community. Even in the first part of the nineteenth century, Americans were
+                    already forming the habit of gathering from all corners of the nation for both public and
+                    private, business and pleasure purposes. Conventions were the new occasions, and
+                    hotels were distinctively American facilities making conventions possible. The first
+                    national convention of a major party to choose a candidate for President (that of the
+                    National Republican party, which met on December 12, 1831, and nominated Henry
+                    Clay for President) was held in Baltimore, at a hotel that was then reputed to be the
+                    best in the country. The presence in Baltimore of Barnum's City Hotel, a six-story
+                    building with two hundred apartments, helps explain why many other early national
+                    political conventions were held there.
+ </paragraphText>
+                <sentences>
+                    <sentence>
+                        <sentenceText>Americans were
+                            Line    already forming the habit of gathering from all corners of the nation for both public and
+                            private, business and pleasure purposes.</sentenceText>
+                        <semanticRelation>CausePurpose/InstrumentGoal</semanticRelation>
+                        <context>no</context>
+                        <assertion>instrumentGoal(hotels,publicGathering)</assertion>
+                        <assertion>instrumentGoal(hotels,privateGathering)</assertion>
+                        
+                        <assertion>instrumentGoal(hotels,businessGathering)</assertion>
+                        <assertion>instrumentGoal(hotels,pleasureGathering)</assertion>
+
+                    </sentence>
+                
+            
+                </sentences>
+            </paragraph>
+            <paragraph>
+                <id_paragraph>2</id_paragraph>
+                <paragraphText> In the longer run, too. American hotels made other national conventions not only
+                    possible but pleasant and convivial. The growing custom of regularly assembling from
+                    afar the representatives of all kinds of groups - not only for political conventions, but
+                    also for commercial, professional, learned, and avocational ones - in turn supported
+                    the multiplying hotels. By mid-twentieth century, conventions accounted for over a
+                    third of the yearly room occupancy of all hotels in the nation, about eighteen thousand
+                    different conventions were held annually with a total attendance of about ten million
+                    persons.
+                    
+</paragraphText>
+                 <sentences>
+              
+                 </sentences>
+        </paragraph>
+            <paragraph>
+                <id_paragraph>3</id_paragraph>
+                <paragraphText>  Nineteenth-century American hotelkeepers, who were no longer the genial,
+                    deferential "hosts" of the eighteenth-century European inn, became leading citizens.
+                    Holding a large stake in the community, they exercised power to make it prosper. As
+                    owners or managers of the local "palace of the public", they were makers and shapers
+                    of a principal community attraction. Travelers from abroad were mildly shocked by
+                    this high social position.
+
+        </paragraphText>
+        <sentences>
+           
+        </sentences>
+    </paragraph>
+    
+        </paragraphs>
+    
+    
+        <questionAnswerBlock>
+            <questions>
+                <question>
+                    <questionText>The word "bound" in line 1 is closest in meaning to
+                      
+ </questionText>
+                    <answers>
+                        <answer>
+                            <answerText>  led
+	</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>protected
+                                	</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>tied			</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>synonym(bound,tied)</assertion>
+                        </answer>
+                        <answer>
+                            <answerText> strengthened</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+
+                    </answers>
+                </question>
+                <question>
+                    <questionText>The word "assembling" in line 14 is closest in meaning to
+                        
+ </questionText>
+                    <answers>
+                        <answer>announcing
+                            </answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>motivating
+                               
+                            </answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        <answer>
+                            <answerText> gathering		</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>convention</context>
+                            
+                            <assertion>synonym(assembling,gathering)</assertion>
+                          
+                        </answer>
+                        <answer>
+                            <answerText>contracting	</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>component</context>
+                            <assertion>no</assertion>
+
+                        </answer>
+                        
+                    </answers>
+                </question>
+            </questions>
+        </questionAnswerBlock>
+    </passage>
+    
+    <!--- pasaje 32 -->
+    
+    
+    <passage>
+        <description>
+            <idPassage>32</idPassage>
+            <documentType>expository</documentType>
+            <area>art</area>
+            <topic>beads</topic>
+        </description>
+        <paragraphs>
+            <paragraph>
+                <id_paragraph>1</id_paragraph>
+                <paragraphText>          Beads were probably the first durable ornaments humans possessed, and the
+                    intimate relationship they had with their owners is reflected in the fact that beads are
+                    among the most common items found in ancient archaeological sites. In the past, as
+                    today, men, women, and children adorned themselves with beads. In some cultures
+                    still, certain beads are often worn from birth until death, and then are buried with their
+                    owners for the afterlife. Abrasion due to daily wear alters the surface features of beads,
+                    and if they are buried for long, the effects of corrosion can further change their
+                    appearance. Thus, interest is imparted to the bead both by use and the effects of time.
+                </paragraphText>
+                <sentences>
+                    <sentence>
+                        <sentenceText>  Beads were probably the first durable ornaments humans possessed, and the
+                            intimate relationship they had with their owners is reflected in the fact that beads are
+                            among the most common items found in ancient archaeological sites. </sentenceText>
+                        <semanticRelation>ClassInclusion/Hyponym</semanticRelation>
+                        <context>no</context>
+                        <assertion>hyponym(ornamentsHumans,beads)</assertion>
+                        
+                          
+                    </sentence>
+            </sentences>
+        </paragraph>
+            <paragraph>
+                <id_paragraph>2</id_paragraph>
+                <paragraphText>          Besides their wearability, either as jewelry or incorporated into articles of attire,beads possess the desirable characteristics of every collectible, they are durable,
+                    portable, available in infinite variety, and often valuable in their original cultural
+                    context as well as in today's market. Pleasing to look at and touch, beads come in
+                    shapes, colors, and materials that almost compel one to handle them and to sort them.
+
+                </paragraphText>
+                <sentences>
+                    <sentence>
+                        <sentenceText> Besides their wearability, either as jewelry or incorporated into articles of attire,beads possess the desirable characteristics of every collectible, they are durable,
+                            portable, available in infinite variety, and often valuable in their original cultural
+                            context as well as in today's market.  </sentenceText>
+                        <semanticRelation>PartWhole/EventFeature</semanticRelation>
+                        <context>no</context>
+                        <assertion>EventFeature(jewelry, durable)</assertion>
+                        <assertion>EventFeature(jewelry, portable)</assertion>
+                        <assertion>EventFeature(jewelry, available)</assertion>
+                        
+                        
+                        
+                        
+                    </sentence>
+                </sentences>
+            </paragraph>
+            <paragraph>
+                <id_paragraph>3</id_paragraph>
+                <paragraphText>          Beads are miniature bundles of secrets waiting to be revealed: their history,
+                    manufacture, cultural context, economic role, and ornamental use are all points of
+                    information one hopes to unravel. Even the most mundane beads may have traveled
+                    great distances and been exposed to many human experiences. The bead researcher
+                    must gather information from many diverse fields. In addition to having to be a
+                    generalist while specializing in what may seem to be a narrow field, the researcher is
+                    faced with the problem of primary materials that have little or no documentation. Many
+                    ancient beads that are of ethnographic interest have often been separated from their
+                    original cultural context.
+                    
+                   
+
+                </paragraphText>
+                <sentences>
+                    <sentence> Beads are miniature bundles of secrets waiting to be revealed  <semanticRelation>ClassInclusion/Hyponym</semanticRelation>
+                            <context>history</context>
+                            <assertion>hyponym(miniatureBundles,beads)</assertion>
+                            
+                    </sentence>
+                </sentences>
+            </paragraph>
+            <paragraph>
+                <id_paragraph>4</id_paragraph>
+                <paragraphText>           The special attractions of beads contribute to the uniqueness of bead research. While often regarded as the "small change of civilizations", beads are a part of every culture,
+                    and they can often be used to date archaeological sites and to designate the degree of
+                    mercantile, technological, and cultural sophistication
+                </paragraphText>
+                <sentences>
+                    
+                </sentences>
+            </paragraph>
+
+
+        </paragraphs>
+        
+        
+        <questionAnswerBlock>
+            <questions>
+                <question>
+                    <questionText>    The word "adorned" in line 4 is closest in meaning to
+                     
+                        
+                    </questionText>
+                    <answers>
+                        <answer>
+                            <answerText>   protected
+                            </answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>decorated
+                                
+                            </answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>synonym(adorned,decorated)</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>  purchased			</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>enjoyed	</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        
+                    </answers>
+                </question>
+                <question>
+                    <questionText>  The word "attire" in line 9 is closest in meaning to
+                      
+                        
+                    </questionText>
+                    <answers>
+                        <answer>
+                            <answerText>  ritual
+                            </answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>importance
+                                
+                            </answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>  clothing				</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>history 	</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>culture</context>
+                            <assertion>synonym(attire,history)</assertion>
+                        </answer>
+                        
+                    </answers>
+                </question>
+                <question>
+                    <questionText>  All of the following are given as characteristics of collectible objects EXCEPT
+                       
+                        
+                    </questionText>
+                    <answers>
+                        <answer>
+                            <answerText> durability
+                            </answerText>
+                            <semanticRelation>PartWhole/EventFeature</semanticRelation>
+                            <context>no</context>
+                            <assertion>EventFeature(jewelry, durable)</assertion>
+                                                  </answer>
+                        <answer>
+                            <answerText>portability
+                                
+                            </answerText>
+                            <semanticRelation>PartWhole/EventFeature</semanticRelation>
+                            <context>no</context>
+                            <assertion>EventFeature(jewelry, portable)</assertion>
+                          
+
+                            
+                        </answer>
+                        <answer>
+                            <answerText> value				</answerText>
+                            <semanticRelation>PartWhole/EventFeature</semanticRelation>
+                            <context>no</context>
+                            <assertion>EventFeature(jewelry, valuable)</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>scarcit	</answerText>
+                            <semanticRelation>PartWhole/EventFeature</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        
+                    </answers>
+                </question>
+                
+               
+                
+               
+            </questions>
+        </questionAnswerBlock>
+    </passage>
+
+<!--- pasaje 33 -->
+<passage>
+    <description>
+        <idPassage>33</idPassage>
+        <documentType>expository</documentType>
+        <area>biology</area>
+        <topic>birds</topic>
+    </description>
+    <paragraphs>
+        <paragraph>
+            <id_paragraph>1</id_paragraph>
+            <paragraphText>          In the world of birds, bill design is a prime example of evolutionary fine-tuning.
+                Shorebirds such as oystercatchers use their bills to pry open the tightly sealed shells of
+                their prey; hummingbirds have stiletto-like bills to probe the deepest nectar-bearing
+            flowers; and kiwis smell out earthworms thanks to nostrils located at the tip of their
+                beaks. But few birds are more intimately tied to their source of sustenance than are
+                crossbills. Two species of these finches, named for the way the upper and lower parts
+                of their bills cross, rather than meet in the middle, reside in the evergreen forests of
+                North America and feed on the seeds held within the cones of coniferous trees.
+            </paragraphText>
+            <sentences>
+                <sentence>
+                    <sentenceText> In the world of birds, bill design is a prime example of evolutionary fine-tuning.
+                        Shorebirds such as oystercatchers use their bills to pry open the tightly sealed shells of
+                        their prey;</sentenceText>
+                    <semanticRelation>ClassInclusion/Hyponym</semanticRelation>
+                    <context>no</context>
+                    <assertion>hyponym(bird,shorebird)</assertion>
+                    <assertion>hyponym(bird,oystercatchers)</assertion>
+                    
+                </sentence>
+                <sentence>
+                    <sentenceText> hummingbirds have stiletto-like bills to probe the deepest nectar-bearing
+                        flowers;</sentenceText>
+                    <semanticRelation>ClassInclusion/Hyponym</semanticRelation>
+                    <context>no</context>
+                    <assertion>hyponym(bird,hummingbirds)</assertion>
+                    
+                </sentence>
+              
+                
+            </sentence>
+        </sentences>
+    </paragraph>
+    <paragraph>
+        <id_paragraph>2</id_paragraph>
+        <paragraphText> The efficiency of the bill is evident when a crossbill locates a cone. Using a lateral
+            motion of its lower mandible, the bird separates two overlapping scales on the cone and
+            exposes the seed. The crossed mandibles enable the bird to exert a powerful biting
+            force at the bill tips, which is critical for maneuvering them between the scales and
+            spreading the scales apart. Next, the crossbill snakes its long tongue into the gap and
+            draws out the seed. Using the combined action of the bill and tongue, the bird cracks
+             open and discards the woody seed covering action and swallows the nutritious inner kernel.
+            This whole process takes but a few seconds and is repeated hundreds of times a day.
+            
+            
+            
+            
+        </paragraphText>
+        <sentences>
+            
+            
+        </sentence>
+    </sentences>
+
+    </paragraph>
+        <paragraph>
+            <id_paragraph>3</id_paragraph>
+            <paragraphText>
+                The bills of different crossbill species and subspecies vary - some are stout and
+                deep, others more slender and shallow. As a rule, large-billed crossbills are better at
+                seeming seeds from large cones, while small-billed crossbills are more deft at
+                removing the seeds from small, thin-scaled cones. Moreover, the degree to which cones
+                are naturally slightly open or tightly closed helps determine which bill design is the best.
+                
+            </paragraphText>
+            <sentences>
+                <sentence>
+                    <sentenceText> As a rule, large-billed crossbills are better at
+                        seeming seeds from large cones, while small-billed crossbills are more deft at
+                        removing the seeds from small, thin-scaled cones</sentenceText>
+                    <semanticRelation>ClassInclusion/Hyponym</semanticRelation>
+                    <context>no</context>
+                    <assertion>hyponym(crossbill,large-billedCrossbilled)</assertion>
+                      <assertion>hyponym(crossbill,small-billedCrossbilled)</assertion>
+                    
+                </sentence>
+                
+                </sentences>
+            </paragraph>
+
+<paragraph>
+    <id_paragraph>4</id_paragraph>
+    <paragraphText>
+        
+        
+        One anomaly is the subspecies of red crossbill known as the Newfoundland
+        crossbill. This bird has a large, robust bill, yet most of Newfoundland's conifers
+        have small cones, the same kind of cones that the slender-billed white-wings rely on.
+        
+    </paragraphText>
+    <sentences>
+        <sentence>
+            <sentenceText> One anomaly is the subspecies of red crossbill known as the Newfoundland
+                crossbill.</sentenceText>
+            <semanticRelation>ClassInclusion/Hyponym</semanticRelation>
+            <context>no</context>
+            <assertion>hyponym(crossbill,NewfoundlandCrossbill)</assertion>
+            
+            </sentence>
+        
+        <sentence>
+            <sentenceText> This bird has a large, robust bill, yet most of Newfoundland's conifers
+                have small cones, the same kind of cones that the slender-billed white-wings rely on.</sentenceText>
+            <semanticRelation>PartWhole/ObjectComponent</semanticRelation>
+            <context>no</context>
+            <assertion>component(bird, largeBill)</assertion>
+              <assertion>component(bird, robustBill)</assertion>
+        </sentence>
+        
+        </sentences>
+    </paragraph>
+    </paragraphs>
+
+
+    <questionAnswerBlock>
+        <questions>
+            <question>
+                <questionText>Crossbills are a type of
+                    
+                    
+ </questionText>
+                <answers>
+                    <answer>
+                        <answerText>shorebird
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>hummingbird
+                           
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>  kiwi				</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> finch	</answerText>
+                        <semanticRelation>ClassInclusion/Hyponym</semanticRelation>
+                        <context>no</context>
+                        <assertion>hyponym(finch,crossbill)</assertion>
+                    </answer>
+                    
+                </answers>
+            </question>
+            <question>
+                <questionText>The word "discards" in line 15 is closest in meaning to
+                    
+                </questionText>
+                <answers>
+                    <answer>
+                        <answerText>  eats
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>breaks
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> finds out
+		</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>gets rid of	</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>synonym(discards,getsRidOf)</assertion>
+                    </answer>
+                    
+                </answers>
+            </question>
+
+<question>
+    <questionText>The word "gap" in line 13 is closest in meaning to
+        
+    </questionText>
+    <answers>
+        <answer>
+            <answerText> opening
+            </answerText>
+            <semanticRelation>Similar/Synonym</semanticRelation>
+            <context>space</context>
+            <assertion>synonym(gap,opening)</assertion>
+        </answer>
+        <answer>
+            <answerText>flower
+                
+            </answerText>
+            <semanticRelation>Similar/Synonym</semanticRelation>
+            <context>no</context>
+            <assertion>no</assertion>
+        </answer>
+        <answer>
+            <answerText>  mouth				</answerText>
+            <semanticRelation>Similar/Synonym</semanticRelation>
+            <context>no</context>
+            <assertion>no</assertion>
+        </answer>
+        <answer>
+            <answerText> tree	</answerText>
+            <semanticRelation>Similar/Synonym</semanticRelation>
+            <context>no</context>
+            <assertion>no</assertion>
+        </answer>
+        
+    </answers>
+</question>
+
+
+
+
+                   </questions>
+    </questionAnswerBlock>
+</passage>
+<!--- pasaje 34 -->
+<passage>
+    <description>
+        <idPassage>34</idPassage>
+        <documentType>narrative</documentType>
+        <area>history</area>
+        <topic>independence</topic>
+    </description>
+    <paragraphs>
+        <paragraph>
+            <id_paragraph>1</id_paragraph>
+            <paragraphText>              If you look closely at some of the early copies of the Declaration of Independence,
+                beyond the flourished signature of John Hancock and the other 55 men who signed it,
+                you will also find the name of one woman, Mary Katherine Goddard. It was she, a
+                Baltimore printer, who published the first official copies of the Declaration, the first
+                copies that included the names of its signers and therefore heralded the support of all
+                thirteen colonies.
+                
+               
+            </paragraphText>
+            <sentences>
+                
+                
+                
+            </sentences>
+        </paragraph>
+        <paragraph>
+            <id_paragraph>2</id_paragraph>
+            <paragraphText>  Mary Goddard first got into printing at the age of twenty-four when her brother
+                opened a printing shop in Providence, Rhode Island, in 1762. When he proceeded to
+                get into trouble with his partners and creditors, it was Mary Goddard and her mother
+                 who were left to run the shop. In 1765 they began publishing the Providence Gazette, a
+                weekly newspaper. Similar problems seemed to follow her brother as he opened
+                businesses in Philadelphia and again in Baltimore. Each time Ms. Goddard was
+                brought in to run the newspapers. After starting Baltimore's first newspaper, The
+                Maryland Journal, in 1773, her brother went broke trying to organize a colonial postal
+                service. While he was in debtor's prison. Mary Katherine Goddard's name appeared on
+                the newspaper's masthead for the first time.
+                
+                
+                
+            </paragraphText>
+            <sentences>
+
+            <sentence>
+                <sentenceText> Mary Goddard first got into printing at the age of twenty-four when her brother
+                    opened a printing shop in Providence, Rhode Island, in 1762.</sentenceText>
+                <semanticRelation>CausePurpose/AgentGoal</semanticRelation>
+                <context>no</context>
+                <assertion>agentGoal(woman, printer)</assertion>
+                
+            </sentence>
+            </sentences>
+
+        </paragraph>
+        
+        <paragraph>
+            <id_paragraph>3</id_paragraph>
+            <paragraphText>   When the Continental Congress fled there from Philadelphia in 1776, it
+                commissioned Ms. Goddard to print the first official version of the Declaration of
+                Independence in January 1777. After printing the documents, she herself paid the post
+                riders to deliver the Declaration throughout the colonies.
+                
+                
+                
+            </paragraphText>
+            <sentences>
+
+            <sentence>
+                <sentenceText> Within a few years the horse - drawn trolleys were retired and electric streetcar networks crisscrossed and connected every major urban area, fostering a wave of suburbanization that transformed the compact industrial city into a dispersed metropolis.</sentenceText>
+                <semanticRelation>CausePurpose/AgentGoal</semanticRelation>
+                <context>no</context>
+                <assertion>agentGoal(woman, deliverDeclarationIndependence)</assertion>
+                
+            </sentence>
+            </sentences>
+
+        </paragraph>
+
+<paragraph>
+    <id_paragraph>4</id_paragraph>
+    <paragraphText>    During the American Revolution, Mary Goddard continued to publish Baltimore's
+        only newspaper, which one historian claimed was "second to none among the
+        colonies". She was also the city's postmaster from 1775 to 1789 - appointed by
+        Benjamin Franklin - and is considered to be the first woman to hold a federal position.
+        
+        
+        
+    </paragraphText>
+    <sentences>
+        
+        
+    </sentences>
+    
+</paragraph>
+
+
+    </paragraphs>
+    
+    
+    <questionAnswerBlock>
+        <questions>
+            <question>
+                <questionText>The word "heralded" in line 5 is closest in meaning to
+                  
+                    
+</questionText>
+                <answers>
+                    <answer>
+                        <answerText>   influenced
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>announced
+                          
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>property</context>
+                        <assertion>synonym(heralded,announced)</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>   rejected		</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>ignored		</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    
+                </answers>
+            </question>
+            <question>
+                <questionText> The word "position" in line 24 is closest in meaning to
+                  
+                   
+                </questionText>
+                <answers>
+                    <answer>
+                        <answerText>    job
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>activity</context>
+                        <assertion>synonym(position,job)</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> election
+                           
+                            
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion> no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> document	 		</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> location		</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                        
+                    </answer>
+                    
+                </answers>
+            </question>
+        </questions>
+    </questionAnswerBlock>
+</passage>
+
+<!--- pasaje 35 -->
+<passage>
+    <description>
+        <idPassage>35</idPassage>
+        <documentType>expository</documentType>
+        <area>astronomy</area>
+        <topic>galaxies</topic>
+    </description>
+    <paragraphs>
+        <paragraph>
+            <id_paragraph>1</id_paragraph>
+            <paragraphText>          Galaxies are the major building blocks of the universe. A galaxy is giant family of
+                many millions of stars, and it is held together by its own gravitational field. Most of the
+                material universe is organized into galaxies of stars together with gas and dust.
+                
+                
+            </paragraphText>
+            <sentences>
+                <sentence>
+                    <sentenceText>Galaxies are the major building blocks of the universe. </sentenceText>
+                    <semanticRelation>ClassInclusion/Hyponym</semanticRelation>
+                    <context>no</context>
+                    <assertion>hyponym(UniversebuildingBlocks,galaxies)</assertion>
+                    
+                    
+                </sentence>
+              
+              <sentence>
+                  <sentenceText>A galaxy is giant family of
+                      many millions of stars, and it is held together by its own gravitational field. </sentenceText>
+                  <semanticRelation>ClassInclusion/Hyponym</semanticRelation>
+                  <context>no</context>
+                  <assertion>hyponym(starsGiantFamily,galaxies)</assertion>
+                  
+                  
+              </sentence>
+
+
+            </sentences>
+        </paragraph>
+        
+        
+        
+        <paragraph>
+            <id_paragraph>2</id_paragraph>
+            <paragraphText>          There are three main types of galaxy: spiral, elliptical, and irregular. The Milky
+                Way is a spiral galaxy, a flattish disc of stars with two spiral arms emerging from its
+                central nucleus. About one-quarter of all galaxies have this shape. Spiral galaxies are
+                well supplied with the interstellar gas in which new stars form: as the rotating spiral
+                pattern sweeps around the galaxy it compresses gas and dust, triggering the formation
+                of bright young stars and in its arms. The elliptical galaxies have a symmetrical elliptical or
+                spheroidal shape with no obvious structure. Most of their member stars are very old
+                and since ellipticals are devoid of interstellar gas, no new stars are forming in them.
+                The biggest and brightest galaxies in the universe are ellipticals with masses of about
+                1013 times that of the Sun, these giants may frequently be sources of strong radio
+                emission, in which case they are called radio galaxies. About two-thirds of all galaxies
+                are elliptical. Irregular galaxies comprise about one-tenth of all galaxies and they come
+                in many subclasses.
+                
+                
+            </paragraphText>
+            <sentences>
+                <sentence>
+                    <sentenceText>There are three main types of galaxy: spiral, elliptical, and irregular.</sentenceText>
+                    <semanticRelation>ClassInclusion/Hyponym</semanticRelation>
+                    <context>no</context>
+                    <assertion>hyponym(galaxy,spiralGalaxy)</assertion>
+                     <assertion>hyponym(galaxy,elliptical)</assertion>
+                     <assertion>hyponym(galaxy,irregularGalaxy)</assertion>
+                    
+                </sentence>
+                <sentence>
+                    <sentenceText>The Milky
+                        Way is a spiral galaxy, a flattish disc of stars with two spiral arms emerging from its
+                        central nucleus.</sentenceText>
+                    <semanticRelation>ClassInclusion/Hyponym</semanticRelation>
+                    <context>no</context>
+                    <assertion>hyponym(spiralGalaxy,milkyWayGalaxy)</assertion>
+                    <semanticRelation>PartWhole/ObjectComponent</semanticRelation>
+                    <context>no</context>
+                    <assertion>component(spiralGalaxy, flattish disc)</assertion>
+                      <assertion>component(spiralGalaxy, spiralArms)</assertion>
+                        <assertion>component(spiralGalaxy, centralNucleus)</assertion>
+                </sentence>
+
+
+                
+            </sentences>
+        </paragraph>
+        
+        <paragraph>
+            <id_paragraph>3</id_paragraph>
+            <paragraphText>         Measurement in space is quite different from measurement on Earth. Some
+                terrestrial distances can be expressed as intervals of time, the time to fly from one
+                continent to another or the time it takes to drive to work, for example. By comparison
+                with these familiar yardsticks, the distances to the galaxies are incomprehensibly large,
+                but they too are made more manageable by using a time calibration, in this case the
+                distance that light travels in one year. On such a scale the nearest giant spiral galaxy,
+                the Andromeda galaxy, is two million light years away. The most distant luminous
+                objects seen by telescopes are probably ten thousand million light years away. Their
+                light was already halfway here before the Earth even formed. The light from the nearby
+                Virgo galaxy set out when reptiles still dominated the animal world.
+                
+                
+            </paragraphText>
+            <sentences>
+                
+                
+            </sentences>
+        </paragraph>
+        
+        
+    </paragraphs>
+    
+    
+    <questionAnswerBlock>
+        <questions>
+            
+            <question>
+                <questionText> The word "major" in line 1 is closest in meaning to
+                    
+
+                    
+                </questionText>
+                <answers>
+                    <answer>
+                        <answerText>   intense
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>synonym(position,job)</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>  principal
+                            
+                            
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion> no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> huge		 		</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        
+                        <assertion>synonym(major,huge)</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> unique		</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                        
+                    </answer>
+                    
+                </answers>
+            </question>
+            
+            <question>
+                <questionText> The word "obvious" in line 10 is closest in meaning to
+                  
+
+                    
+                    
+                </questionText>
+                <answers>
+                    <answer>
+                        <answerText>      discovered
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>shape</context>
+                        <assertion>synonym(obvious,discovered)</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> apparent
+                            
+                            
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion> no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> understood		 		</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>  simplistic		</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                        
+                    </answer>
+                    
+                </answers>
+            </question>
+
+                    </questions>
+    </questionAnswerBlock>
+</passage>
+
+<!--- pasaje 36 -->
+
+<passage>
+    <description>
+        <idPassage>36</idPassage>
+        <documentType>argumentative</documentType>
+        <area>history</area>
+        <topic>railroad</topic>
+    </description>
+    <paragraphs>
+        <paragraph>
+            <id_paragraph>1</id_paragraph>
+            <paragraphText>         Before the mid-1860's, the impact of the railroads in the United States was limited,
+                in the sense that the tracks ended at the Missouri River, approximately the centers of the
+                country. At that point the trains turned their freight, mail, and passengers over to
+                steamboats, wagons, and stagecoaches. This meant that wagon freighting, stagecoaching
+                and steamboating did not come to an end when the first train appeared; rather they
+                became supplements or feeders. Each new "end-of-track" became a center for animaldrawn
+                or waterborne transportation. The major effect of the railroad was to shorten the
+                distance that had to be covered by the older, slower, and more costly means. Wagon
+                freighters continued operating throughout the 1870's and 1880's and into the 1890's,
+                although over constantly shrinking routes, and coaches and wagons continued to
+                crisscross the West wherever the rails had not yet been laid.
+                
+                
+            </paragraphText>
+            <sentences>
+                <sentence>
+                    <sentenceText> The major effect of the railroad was to shorten the
+                        distance that had to be covered by the older, slower, and more costly means.</sentenceText>
+                    <semanticRelation>CausePurpose/CauseEffect</semanticRelation>
+                    <context>no</context>
+                    <assertion>effect(railroad, reduceDistance)</assertion>
+                    
+                    
+                </sentence>
+              
+                
+            </sentences>
+        </paragraph>
+        <paragraph>
+            <id_paragraph>2</id_paragraph>
+            <paragraphText> The beginning of a major change was foreshadowed in the later 1860's, when the
+                Union Pacific Railroad at last began to build westward from the Central Plaints city of
+                Omaha to meet the Central Pacific Railroad advancing eastward form California through
+                the formidable barriers of the Sierra Nevada. Although President Abraham Lincoln
+                signed the original Pacific Railroad bill in 1862 and a revised, financially much more
+                generous version in 1864, little construction was completed until 1865 on the Central
+                Pacific and 1866 on the Union Pacific. The primary reason was skepticism that a
+                railroad built through so challenging and thinly settled a stretch of desert, mountain,
+                and semiarid plain could pay a profit. In the words of an economist, this was a case of
+                "premature enterprise", where not only the cost of construction but also the very high
+                risk deterred private investment. In discussing the Pacific Railroad bill, the chair of the
+                congressional committee bluntly stated that without government subsidy no one would
+                undertake so unpromising a venture; yet it was a national necessity to link East and
+                West together.
+                
+            </paragraphText>
+            
+            <sentence>
+                <sentenceText> The primary reason was skepticism that a
+                    railroad built through so challenging and thinly settled a stretch of desert, mountain,
+                    and semiarid plain could pay a profit. </sentenceText>
+                <semanticRelation>CausePurpose/CauseEffect</semanticRelation>
+                <context>no</context>
+                <assertion>effect(railroad, skepticism)</assertion>
+                
+            </sentence>
+        </paragraph>
+        
+    </paragraphs>
+    
+    
+    <questionAnswerBlock>
+        <questions>
+            <question>
+                <questionText>The word "supplements" in line 6 is closest in meaning to
+                    
+                    
+                    
+                    
+                </questionText>
+                <answers>
+                    <answer>
+                        <answerText> extensions
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>synonym(suplements,extensions)</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> reformers
+                            
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>  dependents	 	</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>influences		</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    
+                </answers>
+            </question>
+            <question>
+                <questionText> The word "subsidy" in line 23 is closest in meaning to
+                   
+                    
+                </questionText>
+                <answers>
+                    <answer>
+                        <answerText>   persuasion
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> financing
+                            
+                            
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>support</context>
+                        <assertion>synonym(subsidy,financing)</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>  explanation		</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> penalty			</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                        
+                    </answer>
+                    
+                </answers>
+            </question>
+        </questions>
+    </questionAnswerBlock>
+</passage>
+
+<!--- pasaje 37 -->
+
+<passage>
+    <description>
+        <idPassage>37</idPassage>
+        <documentType>expository</documentType>
+        <area>history</area>
+        <topic>numbers</topic>
+    </description>
+    <paragraphs>
+        <paragraph>
+            <id_paragraph>1</id_paragraph>
+            <paragraphText>          Humanity's primal efforts to systematize the concepts of size, shapes, and number
+                are usually regarded as the earliest mathematics. However, the concept of number and
+                the counting process developed so long before the time of recorded history (there is
+                archaeological evidence that counting was employed by humans as far back as 50,000
+                years ago) that the manner of this development is largely conjectural. Imaging how it
+                probably came about is not difficult. The argument that humans, even in prehistoric
+                times, had some number sense, at least to the extent of recognizing the concepts of
+                more and less when some objects were added to or taken away from a small group,
+                seems fair, for studies have shown that some animal possess such a sense.
+                
+                
+            </paragraphText>
+            <sentences>
+               
+               
+                
+            </sentences>
+        </paragraph>
+        <paragraph>
+            <id_paragraph>2</id_paragraph>
+            <paragraphText>  With the gradual evolution of society, simple counting became imperative. A tribe
+                had to know how many members it had and how many enemies, and shepherd needed
+                to know if the flock of sheep was decreasing in size. Probably the earliest way of keeping
+                a count was by some simple tally method, employing the principle of one-to-one
+                correspondence. In keeping a count of sheep, for example, one finger per sheep could
+                be turned under. Counts could also be maintained by making scratches in the dirt or on
+                a stone, by cutting notches in a piece of wood, or by tying knots in a string.
+                
+              
+                
+            </paragraphText>
+            
+            <sentence>
+                <sentenceText> A tribe had to know how many members it had and how many enemies, and shepherd needed
+                    to know if the flock of sheep was decreasing in size.</sentenceText>
+                <semanticRelation>CausePurpose/AgentGoal</semanticRelation>
+                <context>no</context>
+                <assertion>agentGoal(tribu, enemiesCounting)</assertion>
+                <assertion>agentGoal(tribu, membersCounting)</assertion>
+                <assertion>agentGoal(shepherd, sheepCounting)</assertion>
+               
+                
+            </sentence>
+        </paragraph>
+        
+        
+        <paragraph>
+            <id_paragraph>3</id_paragraph>
+            <paragraphText>
+                
+                Then, perhaps later, an assortment of vocal sounds was developed as a word tally
+                against the number of objects in a small group. And still later, with the refinement of
+                writing, a set of signs was devised to stand for these numbers. Such an imagined
+                development is supported by reports of anthropologists in their studies of present-day
+                societies that are thought to be similar to those of early humans.
+                
+            </paragraphText>
+            
+            
+        </paragraph>
+    </paragraphs>
+    
+    
+    <questionAnswerBlock>
+        <questions>
+            <question>
+                <questionText>The word "conjectural" in line 5 is closest in meaning to
+                    
+                    
+                </questionText>
+                <answers>
+                    <answer>
+                        <answerText> complex
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>based on guessing
+                            
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>property</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>     unbelievable
+	</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> supported by careful research		</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>synonym(conjectural,supported)</assertion>
+                    </answer>
+                    
+                </answers>
+            </question>
+            <question>
+                <questionText> Which of the following is NOT mentioned as an early methods of counting?
+                    
+                    
+                </questionText>
+                <answers>
+                    <answer>
+                        <answerText>  Cutting notches
+                        </answerText>
+                        <semanticRelation>PartWhole/CollectionMember</semanticRelation>
+                        <context>no</context>
+                        <assertion>colectionMember(countingMethods,cuttingNotches)</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> Bending fingers
+                           
+                            
+                            
+                        </answerText>
+                        <semanticRelation>PartWhole/CollectionMember</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>   piling stones				</answerText>
+                        <semanticRelation>PartWhole/CollectionMember</semanticRelation>
+                        <context>no</context>
+                        
+                        <assertion>colectionMember(countingMethods,pilingStones)</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> Tying knots 		</answerText>
+                        <semanticRelation>PartWhole/CollectionMember</semanticRelation>
+                        <context>no</context>
+                        <assertion>colectionMember(countingMethods,tyingKnots)</assertion>
+                        
+                    </answer>
+                    
+                </answers>
+            </question>
+        </questions>
+    </questionAnswerBlock>
+</passage>
+
+<!--- pasaje 38 -->
+
+<passage>
+    <description>
+        <idPassage>38</idPassage>
+        <documentType>narrative</documentType>
+        <area>history</area>
+        <topic>mining</topic>
+    </description>
+    <paragraphs>
+        <paragraph>
+            <id_paragraph>1</id_paragraph>
+            <paragraphText>          As the merchant class expanded in the eighteenth-century North American colonies,
+                the silversmith and the coppersmith businesses rose to serve it. Only a few silversmiths
+                were available in New York or Boston in the late seventeenth century, but in the
+                eighteenth century they could be found in all major colonial cities. No other colonial
+                 artisans rivaled the silversmiths' prestige. They handled the most expensive materials
+                and possessed direct connections to prosperous colonies merchants. Their products,
+                primarily silver plates and bowls, reflected their exalted status and testified to their
+                customers' prominence.
+                
+                
+            </paragraphText>
+            <sentences>
+                <sentence>
+                    <sentenceText> Their products,
+                        primarily silver plates and bowls, reflected their exalted status and testified to their
+                        customers' prominence.
+</sentenceText>
+                    <semanticRelation>ClassInclusion/Hyponym</semanticRelation>
+                    <context>no</context>
+                    <assertion>hyponym(miningProduct,plate)</assertion>
+                    <assertion>hyponym(miningProduct,bowl)</assertion>
+                    
+                    
+                </sentence>
+               
+              
+                
+            </sentences>
+        </paragraph>
+        <paragraph>
+            <id_paragraph>2</id_paragraph>
+            <paragraphText> Silver stood as one of the surest ways to store wealth at a time before neighborhood
+                banks existed. Unlike the silver coins from which they were made, silver articles were
+                readily identifiable. Often formed to individual specifications, they always carried the
+                silversmith's distinctive markings and consequently could be traced and retrieved.
+                Customers generally secured the silver for the silver objects they ordered. They
+                saved coins, took them to smiths, and discussed the type of pieces they desired.
+                Silversmiths complied with these requests by melting the money in a small furnace,
+                adding a bit of copper to form a stronger alloy, and casting the alloy in rectangular
+                blocks. They hammered these ingots to the appropriate thickness by hand, shaped
+                them, and pressed designs into them for adornment. Engraving was also done by hand.
+                In addition to plates and bowls, some customers sought more intricate products, such as
+                silver teapots. These were made by shaping or casting parts separately and then
+                soldering them together.
+                
+                
+                
+            </paragraphText>
+            <sentences>
+            <sentence>
+                <sentenceText>  In addition to plates and bowls, some customers sought more intricate products, such as
+                    silver teapots.</sentenceText>
+                <semanticRelation>ClassInclusion/Hyponym</semanticRelation>
+                <context>no</context>
+                <assertion>hyponym(miningProduct,teapots)</assertion>
+            </sentence>
+            </sentences>
+        </paragraph>
+        
+        <paragraph>
+            <id_paragraph>3</id_paragraph>
+            <paragraphText> Colonial coppersmithing also came of age in the early eighteenth century and
+                prospered in northern cities. Copper's ability to conduct heat efficiently and to resist
+                corrosion contributed to its attractiveness. But because it was expensive in colonial
+                America, coppersmiths were never very numerous. Virtually all copper worked by
+                smiths was imported as sheets or obtained by recycling old copper goods. Copper was
+                used for practical items, but it was not admired for its beauty. Coppersmiths employed
+                it to fashion pots and kettles for the home. They shaped it in much the same manner as
+                silver or melted it in a foundry with lead or tin. They also mixed it with zinc to make
+                brass for maritime and scientific instruments.
+                
+            </paragraphText>
+            <sentences>
+            
+            </sentences>
+        </paragraph>
+    </paragraphs>
+    
+    
+    <questionAnswerBlock>
+        <questions>
+            <question>
+                <questionText>The word "exalted" in line 7 is closest in meaning to
+                   
+                    
+                    
+                    
+                </questionText>
+                <answers>
+                    <answer>
+                        <answerText>  unusual
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>uncertain
+                            
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>   surprising		</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> superior	</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>status</context>
+                        <assertion>synonym(exalted,superior)</assertion>
+                    </answer>
+                    
+                </answers>
+            </question>
+            <question>
+                <questionText> The passage mentions all of the following as uses for copper in colonial America EXCEPT
+                                   </questionText>
+                <answers>
+                    <answer>
+                        <answerText>   cooking pots
+                            
+
+                        </answerText>
+                        <semanticRelation>CausePurpose/InstrumentGoal</semanticRelation>
+                        <context>no</context>
+                        <assertion>instrumentGoal(copper,cookingPotsCreation)</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> scientific instruments
+                            
+                            
+                        </answerText>
+                        <semanticRelation>CausePurpose/InstrumentGoal</semanticRelation>
+                        <context>no</context>
+                        <assertion>instrumentGoal(copper,scientificInstrumentsCreation)</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>   musical instruments				</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                        
+                    </answer>
+                    <answer>
+                        <answerText> maritime instruments
+		</answerText>
+                        <semanticRelation>CausePurpose/InstrumentGoal</semanticRelation>
+                        <context>no</context>
+                        <assertion>instrumentGoal(copper,maritimeInstrumentsCreation)</assertion>
+                        
+                    </answer>
+                    
+                </answers>
+            </question>
+        </questions>
+    </questionAnswerBlock>
+</passage>
+
+<!--- pasaje 39 -->
+
+
+
+</passages>

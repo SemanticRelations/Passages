@@ -1,0 +1,1402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<passages>
+    <passage>
+        <description>
+            <idPassage>21</idPassage>
+            <documentType>expository</documentType>
+            <area>history</area>
+            <topic>conventions</topic>
+        </description>
+        <paragraphs>
+            <paragraph>
+                <id_paragraph>1</id_paragraph>
+                <paragraphText>The canopy ,the upper level of the trees in the rain forest, holds a plethora of climbing
+                    mammals of moderately large size, which may include monkeys, cats, civets, and
+                    porcupines. Smaller species, including such rodents as mice and small squirrels ,are not
+                    as prevalent overall in high tropical canopies as they are in most habitats globally.
+                     Small mammals, being warm blooded, suffer hardship in the exposed and turbulent
+                    environment of the uppermost trees. Because a small body has more surface area per unit
+                    of weight than a large one of similar shape, it gains or loses heat more swiftly. Thus, in
+                    the trees, where shelter from heat and cold may be scarce and conditions may fluctuate, a
+                    small mammal may have trouble maintaining its body temperature.
+                    
+                    
+ </paragraphText>
+                <sentences>
+                    <sentence>
+                        <sentenceText>The canopy ,the upper level of the trees in the rain forest, holds a plethora of climbing
+                            mammals of moderately large size, which may include monkeys, cats, civets, and
+                            porcupines .</sentenceText>
+                        <semanticRelation>PartWhole/ObjectComponent</semanticRelation>
+                        <context>no</context>
+                        <assertion>ObjectComponent(tree,canopy)</assertion>
+
+<semanticRelation>ClassInclusion/Hyponym</semanticRelation>
+<context>no</context>
+<assertion>hyponym(mammals,monkeys)</assertion>
+<assertion>hyponym(mammals,cats)</assertion>
+<assertion>hyponym(mammals,civets)</assertion>
+<assertion>hyponym(mammals,porcupines)</assertion>
+
+
+                    </sentence>
+                
+            
+                </sentences>
+            </paragraph>
+            <paragraph>
+                <id_paragraph>2</id_paragraph>
+                <paragraphText> Small size makes it easy to scramble among twigs and branches in the canopy for
+                    insects, flowers, or fruit, but small mammals are surpassed, in the competition for food,
+                    by large ones that have their own tactics for browsing among food-rich twigs. The weight
+                    of a gibbon (a small ape) hanging below a branch arches the terminal leaves down so that
+                    fruit-bearing foliage drops toward the gibbon’s face. Walking or leaping species of a
+                    similar or even larger size access the outer twigs either by snapping off and retrieving the
+                    whole branch or by clutching stiff branches with the feet or tail and plucking food with
+                    their hands.
+                    
+                    
+                    
+</paragraphText>
+                 <sentences>
+              
+                 </sentences>
+        </paragraph>
+            <paragraph>
+                <id_paragraph>3</id_paragraph>
+                <paragraphText>  Small climbing animals may reach twigs readily, but it is harder for them than for large
+                    climbing animals to cross the wide gaps from on tree crown to the next that typify the
+                    high canopy. A macaque or gibbon can hurl itself farther than a mouse can: it can achieve
+                    a running start, and it can more effectively use a branch as a springboard, even bouncing
+                    on a climb several times before jumping. The forward movement of a small animal is
+                    seriously reduced by the air friction against the relatively large surface area of its body.
+                    Finally, for the many small mammals that supplement their insect diet with fruits or seeds
+                    an inability to span open gaps between tree crowns may be problematic, since trees that
+                    yield these foods can be sparse.
+
+        </paragraphText>
+        <sentences>
+           
+        </sentences>
+    </paragraph>
+    
+        </paragraphs>
+    
+    
+        <questionAnswerBlock>
+            <questions>
+                <question>
+                    <questionText>Which of the following animals is less common  in the upper canopy than in other environments?
+                        
+ </questionText>
+                    <answers>
+                        <answer>
+                            <answerText>   Monkeys
+	</answerText>
+                            <semanticRelation>PartWhole/CollectionMember</semanticRelation>
+                            <context>no</context>
+                            <assertion>collectionMember(forest,monkeys)</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>Cats
+                                	</answerText>
+                            <semanticRelation>PartWhole/CollectionMember</semanticRelation>
+                            <context>no</context>
+                            <assertion>collectionMember(forest,cats)</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>Porcupines				</answerText>
+                            <semanticRelation>PartWhole/CollectionMember</semanticRelation>
+                            <context>no</context>
+                            <assertion>collectionMember(forest,porcupines)</assertion>
+                        </answer>
+                        <answer>
+                            <answerText> Mice</answerText>
+                            <semanticRelation>PartWhole/CollectionMember</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+
+                    </answers>
+                </question>
+                <question>
+                    <questionText>The word “typify” in line 19 is closest in meaning to
+                    
+                        
+ </questionText>
+                    <answers>
+                        <answer>   resemble
+                            </answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        <answer>
+                            <answerText> protect
+                            </answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        <answer>
+                            <answerText> characterize
+	</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            
+                            <assertion>synonym(typify,characterize)</assertion>
+                          
+                        </answer>
+                        <answer>
+                            <answerText> divide	</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+
+                        </answer>
+                        
+                    </answers>
+                </question>
+            </questions>
+        </questionAnswerBlock>
+    </passage>
+    
+    <!--- pasaje 22 -->
+    
+    
+    <passage>
+        <description>
+            <idPassage>22</idPassage>
+            <documentType>argumentative</documentType>
+            <area>history</area>
+            <topic>literature</topic>
+        </description>
+        <paragraphs>
+            <paragraph>
+                <id_paragraph>1</id_paragraph>
+                <paragraphText>          During the seventeenth and eighteenth centuries, almost nothing was written about the
+                    contributions of women during the colonial period and the early history of the newly
+                    formed United States. Lacking the right to vote and absent from the seats of power, women
+                    were not considered an important force in history. Anne Bradstreet wrote some significant
+                    poetry in the seventeenth century, Mercy Otis Warren produced the best contemporary
+                    history of the American Revolution, and Abigail Adams penned important letters showing
+                    she exercised great political influence over her husband, John, the second President of the
+                    United States. But little or no notice was taken of these contributions. During these
+                    centuries, women remained invisible in history books.
+                    
+                   
+                </paragraphText>
+                <sentences>
+                    
+            </sentences>
+        </paragraph>
+            <paragraph>
+                <id_paragraph>2</id_paragraph>
+                <paragraphText>           Throughout the nineteenth century, this lack of visibility continued, despite the efforts
+                    of female authors writing about women. These writers, like most of their male counterparts,
+                    were amateur historians. Their writings were celebratory in nature, and they were uncritical
+                    in their selection and use of sources.
+                    
+                    
+                </paragraphText>
+                <sentences>
+                    
+                </sentences>
+            </paragraph>
+            <paragraph>
+                <id_paragraph>3</id_paragraph>
+                <paragraphText>         During the nineteenth century, however, certain feminists showed a keen sense of
+                    history by keeping records of activities in which women were engaged. National, regional,
+                    and local women’s organizations compiled accounts of their doings. Personal
+                    correspondence, newspaper clippings, and souvenirs were saved and stored. These sources
+                    from the core of the two greatest collections of women’s history in the United States one at
+                    the Elizabeth and Arthur Schlesinger Library at Radcliffe College, and the other the Sophia
+                    Smith Collection at Smith College. Such sources have provided valuable materials for later
+                    Generations of historians.
+                    
+                    
+
+                </paragraphText>
+                <sentences>
+                    
+                </sentences>
+            </paragraph>
+            <paragraph>
+                <id_paragraph>4</id_paragraph>
+                <paragraphText>          Despite the gathering of more information about ordinary women during the nineteenth
+                    Century, most of the writing about women conformed to the “great women” theory of
+                    History, just as much of mainstream American history concentrated on “great men.” To
+                    demonstrate that women were making significant contributions to American life, female
+                    authors singled out women leaders and wrote biographies, or else important women
+                    produced their autobiographies. Most of these leaders were involved in public life as
+                    reformers, activists working for women’s right to vote, or authors, and were not
+                    representative at all of the great of ordinary woman. The lives of ordinary people
+                    continued, generally, to be untold in the American histories being published.
+
+                </paragraphText>
+                <sentences>
+                    
+                </sentences>
+            </paragraph>
+
+
+        </paragraphs>
+        
+        
+        <questionAnswerBlock>
+            <questions>
+                <question>
+                    <questionText>    The word “contemporary” in line 5 means that the history was
+                        
+                    </questionText>
+                    <answers>
+                        <answer>
+                            <answerText>   informative
+                                
+
+                            </answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>written at that time
+                                                          </answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>synonym(contemporary,writtenAtTheTime)</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>    thoughtful
+                                
+		</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>faultfinding</answerText>
+                            <semanticRelation>Similar/Synonym</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        
+                    </answers>
+                </question>
+                <question>
+                    <questionText>  In the last paragraph, the author mentions all of the following as possible roles of nineteenth-century “great women” EXCEPT
+                        
+                        
+                    </questionText>
+                    <answers>
+                        <answer>
+                            <answerText> authors
+                            </answerText>
+                            <semanticRelation>CausePurpose/AgentGoal</semanticRelation>
+                            <context>no</context>
+                            <assertion>agentGoal(woman, author)</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>reformers
+                               
+                                
+                            </answerText>
+                            <semanticRelation>CausePurpose/AgentGoal</semanticRelation>
+                            <context>no</context>
+                            <assertion>agentGoal(woman, reformer)</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>   activists for women’s rights			</answerText>
+                            <semanticRelation>CausePurpose/AgentGoal</semanticRelation>
+                            <context>no</context>
+                            <assertion>agentGoal(woman, activist)</assertion>
+                        </answer>
+                        <answer>
+                            <answerText>politicians		</answerText>
+                            <semanticRelation>CausePurpose/AgentGoal</semanticRelation>
+                            <context>no</context>
+                            <assertion>no</assertion>
+                        </answer>
+                        
+                    </answers>
+                </question>
+                
+               
+                
+               
+            </questions>
+        </questionAnswerBlock>
+    </passage>
+
+<!--- pasaje 33 -->
+<passage>
+    <description>
+        <idPassage>33</idPassage>
+        <documentType>expository</documentType>
+        <area>art</area>
+        <topic>art nouveau</topic>
+    </description>
+    <paragraphs>
+        <paragraph>
+            <id_paragraph>1</id_paragraph>
+            <paragraphText>         The end of the nineteenth century and the early years of the twentieth century were
+                marked by the development of an international Art Nouveau style, characterized by sinuous
+                lines, floral and vegetable motifs, and soft evanescent coloration. The Art Nouveau style
+                was an eclectic one, bringing together elements of Japanese art, motifs of ancient cultures,
+                 and natural forms. The glass objects of this style were elegant in outline, although often
+                deliberately distorted, with pale or iridescent surfaces. A favored device of the style was to
+                imitate the iridescent surface seen on ancient glass that had been buried. Much of the Art
+                Nouveau glass produced during the years of its greatest popularity had been generically
+                termed “art glass.” Art glass was intended for decorative purposes and relied for its effect
+                 on carefully chosen color combinations and innovative techniques.
+                
+                
+            </paragraphText>
+            <sentences>
+                <sentence>
+                    <sentenceText>  The end of the nineteenth century and the early years of the twentieth century were
+                        marked by the development of an international Art Nouveau style, characterized by sinuous
+                        lines, floral and vegetable motifs, and soft evanescent coloration.</sentenceText>
+                    <semanticRelation>PartWhole/ObjectComponent</semanticRelation>
+                    <context>no</context>
+                    <assertion>component(ArtNouveau,sinousLines)</assertion>
+                     <assertion>component(ArtNouveau,floralMotifs)</assertion>
+                      <assertion>component(ArtNouveau,vegetableMotifs)</assertion>
+                       <assertion>component(ArtNouveau,softEvanescentColoration)</assertion>
+                </sentence>
+                
+                
+            </sentence>
+        </sentences>
+    </paragraph>
+    <paragraph>
+        <id_paragraph>2</id_paragraph>
+        <paragraphText> France produced a number of outstanding exponents of the Art Nouveau style; among
+            the most celebrated was Emile Galle (1846-1904). In the United States, Louis Comfort
+            Tiffany (1843-1933) was the most noted exponent of this style, producing a great variety of
+            glass forms and surfaces, which were widely copied in their time and are highly prized
+            today. Tiffany was a brilliant designer, successfully combining ancient Egyptian, Japanese,
+            and Persian motifs.
+            
+            
+            
+            
+            
+        </paragraphText>
+        <sentences>
+            
+            
+    </sentences>
+
+    </paragraph>
+        <paragraph>
+            <id_paragraph>3</id_paragraph>
+            <paragraphText>
+                The Art Nouveau style was a major force in the decorative arts from 1895 until 1915,
+                although its influence continued throughout the mid-1920’s. It was eventually to be
+                overtaken by a new school of thought known as Functionalism that had been present since
+                the turn of the century. At first restricted to a small avant-garde group of architects and
+                designers, Functionalism emerged as the dominant influence upon designers after the First
+                World War. The basic tenet of the movement-that function should determine from-was
+                not a new concept. Soon a distinct aesthetic code evolved: from should be simple, surfaces
+                plain, and any ornament should be based on geometric relationships. This new design
+                concept, coupled with the sharp postwar reactions to the styles and conventions of the
+                preceding decades, created an entirely new public taste which caused Art Nouveau types of
+                glass to fall out of favor. The new taste demanded dramatic effects of contrast, stark outline
+                and complex textural surfaces.
+
+                
+            </paragraphText>
+            <sentences>
+                
+                </sentences>
+            </paragraph>
+
+
+    </paragraphs>
+
+
+    <questionAnswerBlock>
+        <questions>
+            <question>
+                <questionText>The word “prized” in line 14 is closest in meaning to
+                    
+                    
+                    
+ </questionText>
+                <answers>
+                    <answer>
+                        <answerText>valued	                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>synonym(prized,valued)</assertion>
+                    </answer>
+                    <answer>preserved
+                           
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>
+                            <answerText>universal					</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> uncommon		</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    
+                </answers>
+            </question>
+            <question>
+                <questionText>The word “overtaken” in line 19 is closest in meaning to
+                    
+                    
+                </questionText>
+                <answers>
+                    <answer>
+                        <answerText> surpassed
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>inclined
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> expressed
+		</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>applied	</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>synonym(overtaken,applied)</assertion>
+                    </answer>
+                    
+                </answers>
+            </question>
+
+
+
+
+
+                   </questions>
+    </questionAnswerBlock>
+</passage>
+<!--- pasaje 34 -->
+<passage>
+    <description>
+        <idPassage>34</idPassage>
+        <documentType>expository</documentType>
+        <area>geography</area>
+        <topic>glaciers</topic>
+    </description>
+    <paragraphs>
+        <paragraph>
+            <id_paragraph>1</id_paragraph>
+            <paragraphText>              During most of their lives, surge glaciers behave like normal glaciers, traveling perhaps
+                only a couple of inches per day. However, at intervals of 10 to 100 years, these glaciers
+                move forward up to 100 times faster than usual. The surge often progresses along a glacier
+                line     like a great wave, proceeding from one section to another. Subglacial streams of meltwater
+                (5)      water pressure under the glacier might lift it off its bed, overcoming the friction between ice
+                and rock, thus freeing the glacier, which rapidly sliders downhill Surge glaciers also might
+                be influenced by the climate, volcanic heat, or earthquakes. However, many of these
+                glaciers exist in the same area as normal glaciers, often almost side by side.
+                
+                (10)              Some 800 years ago, Alaska’s Hubbard Glacier advanced toward the sea, retreated, and
+                advanced again 500 years later. Since 1895, this seventy-mile-long river of ice has been
+                flowing steadily toward the Gulf of Alaska at a rate of approximately 200 feet per year. In
+                June 1986, however, the glacier surged ahead as much as 47 feet a day. Meanwhile, a
+                western tributary, called Valerie Glacier, advanced up to 112 feet a day. Hubbard’s surge
+                (15)    closed off Russell Fiord with a formidable ice dam, some 2,500 feet wide and up to 800
+                feet high, whose caged waters threatened the town of Yakutat to the south.
+                
+                About 20 similar glaciers around the Gulf of Alaska are heading toward the sea. If
+                enough surge glaciers reach the ocean and raise sea levels, West Antarctic ice shelves could
+                rise off the seafloor and become adrift. A flood of ice would then surge into the Southern
+                (20)    Sea. With the continued rise in sea level, more ice would plunge into the ocean, causing sea
+                levels to rise even higher, which in turn would release more ice and set in motion a vicious
+                cycle. The additional sea ice floating toward the tropics would increase Earth’s Albedo and
+                lower global temperatures, perhaps enough to initiate a new ice age. This situation appears
+                to have occurred at the end of the last warm interglacial (the time between glacations),
+                (25)    called the Sangamon, when sea ice cooled the ocean dramatically, spawning the beginning
+                of the Ice Age.
+                
+               
+            </paragraphText>
+            <sentences>
+                
+                
+                
+            </sentences>
+        </paragraph>
+        <paragraph>
+            <id_paragraph>2</id_paragraph>
+            <paragraphText>  Mary Goddard first got into printing at the age of twenty-four when her brother
+                opened a printing shop in Providence, Rhode Island, in 1762. When he proceeded to
+                get into trouble with his partners and creditors, it was Mary Goddard and her mother
+                 who were left to run the shop. In 1765 they began publishing the Providence Gazette, a
+                weekly newspaper. Similar problems seemed to follow her brother as he opened
+                businesses in Philadelphia and again in Baltimore. Each time Ms. Goddard was
+                brought in to run the newspapers. After starting Baltimore's first newspaper, The
+                Maryland Journal, in 1773, her brother went broke trying to organize a colonial postal
+                service. While he was in debtor's prison. Mary Katherine Goddard's name appeared on
+                the newspaper's masthead for the first time.
+                
+                
+                
+            </paragraphText>
+            <sentences>
+
+            <sentence>
+                <sentenceText> Mary Goddard first got into printing at the age of twenty-four when her brother
+                    opened a printing shop in Providence, Rhode Island, in 1762.</sentenceText>
+                <semanticRelation>CausePurpose/AgentGoal</semanticRelation>
+                <context>no</context>
+                <assertion>agentGoal(woman, printer)</assertion>
+                
+            </sentence>
+            </sentences>
+
+        </paragraph>
+        
+        <paragraph>
+            <id_paragraph>3</id_paragraph>
+            <paragraphText>   When the Continental Congress fled there from Philadelphia in 1776, it
+                commissioned Ms. Goddard to print the first official version of the Declaration of
+                Independence in January 1777. After printing the documents, she herself paid the post
+                riders to deliver the Declaration throughout the colonies.
+                
+                
+                
+            </paragraphText>
+            <sentences>
+
+            <sentence>
+                <sentenceText> Within a few years the horse - drawn trolleys were retired and electric streetcar networks crisscrossed and connected every major urban area, fostering a wave of suburbanization that transformed the compact industrial city into a dispersed metropolis.</sentenceText>
+                <semanticRelation>CausePurpose/AgentGoal</semanticRelation>
+                <context>no</context>
+                <assertion>agentGoal(woman, deliverDeclarationIndependence)</assertion>
+                
+            </sentence>
+            </sentences>
+
+        </paragraph>
+
+<paragraph>
+    <id_paragraph>4</id_paragraph>
+    <paragraphText>    During the American Revolution, Mary Goddard continued to publish Baltimore's
+        only newspaper, which one historian claimed was "second to none among the
+        colonies". She was also the city's postmaster from 1775 to 1789 - appointed by
+        Benjamin Franklin - and is considered to be the first woman to hold a federal position.
+        
+        
+        
+    </paragraphText>
+    <sentences>
+        
+        
+    </sentences>
+    
+</paragraph>
+
+
+    </paragraphs>
+    
+    
+    <questionAnswerBlock>
+        <questions>
+            <question>
+                <questionText>TThe word “intervals” in line 2 is closest in meaning to
+                    (A) records	(B) speeds	(C) distances	(D) periods
+                    
+                    32. The author compares the surging motion of a surge glacier to the movement of a
+                    (A) fish	(B) wave	(C) machine	(D) boat
+</questionText>
+                <answers>
+                    <answer>
+                        <answerText>   influenced
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>announced
+                          
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>property</context>
+                        <assertion>synonym(heralded,announced)</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>   rejected		</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>ignored		</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    
+                </answers>
+            </question>
+            <question>
+                <questionText> The word "position" in line 24 is closest in meaning to
+                  
+                   
+                </questionText>
+                <answers>
+                    <answer>
+                        <answerText>    job
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>activity</context>
+                        <assertion>synonym(position,job)</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> election
+                           
+                            
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion> no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> document	 		</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> location		</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                        
+                    </answer>
+                    
+                </answers>
+            </question>
+        </questions>
+    </questionAnswerBlock>
+</passage>
+
+<!--- pasaje 35 -->
+<passage>
+    <description>
+        <idPassage>35</idPassage>
+        <documentType>argumentative</documentType>
+        <area>astronomy</area>
+        <topic>galaxies</topic>
+    </description>
+    <paragraphs>
+        <paragraph>
+            <id_paragraph>1</id_paragraph>
+            <paragraphText>          Galaxies are the major building blocks of the universe. A galaxy is giant family of
+                many millions of stars, and it is held together by its own gravitational field. Most of the
+                material universe is organized into galaxies of stars together with gas and dust.
+                
+                
+            </paragraphText>
+            <sentences>
+                <sentence>
+                    <sentenceText>Galaxies are the major building blocks of the universe. </sentenceText>
+                    <semanticRelation>ClassInclusion/Hyponym</semanticRelation>
+                    <context>no</context>
+                    <assertion>hyponym(UniversebuildingBlocks,galaxies)</assertion>
+                    
+                    
+                </sentence>
+              
+              <sentence>
+                  <sentenceText>A galaxy is giant family of
+                      many millions of stars, and it is held together by its own gravitational field. </sentenceText>
+                  <semanticRelation>ClassInclusion/Hyponym</semanticRelation>
+                  <context>no</context>
+                  <assertion>hyponym(starsGiantFamily,galaxies)</assertion>
+                  
+                  
+              </sentence>
+
+
+            </sentences>
+        </paragraph>
+        
+        
+        
+        <paragraph>
+            <id_paragraph>2</id_paragraph>
+            <paragraphText>          There are three main types of galaxy: spiral, elliptical, and irregular. The Milky
+                Way is a spiral galaxy, a flattish disc of stars with two spiral arms emerging from its
+                central nucleus. About one-quarter of all galaxies have this shape. Spiral galaxies are
+                well supplied with the interstellar gas in which new stars form: as the rotating spiral
+                pattern sweeps around the galaxy it compresses gas and dust, triggering the formation
+                of bright young stars and in its arms. The elliptical galaxies have a symmetrical elliptical or
+                spheroidal shape with no obvious structure. Most of their member stars are very old
+                and since ellipticals are devoid of interstellar gas, no new stars are forming in them.
+                The biggest and brightest galaxies in the universe are ellipticals with masses of about
+                1013 times that of the Sun, these giants may frequently be sources of strong radio
+                emission, in which case they are called radio galaxies. About two-thirds of all galaxies
+                are elliptical. Irregular galaxies comprise about one-tenth of all galaxies and they come
+                in many subclasses.
+                
+                
+            </paragraphText>
+            <sentences>
+                <sentence>
+                    <sentenceText>There are three main types of galaxy: spiral, elliptical, and irregular.</sentenceText>
+                    <semanticRelation>ClassInclusion/Hyponym</semanticRelation>
+                    <context>no</context>
+                    <assertion>hyponym(galaxy,spiralGalaxy)</assertion>
+                     <assertion>hyponym(galaxy,elliptical)</assertion>
+                     <assertion>hyponym(galaxy,irregularGalaxy)</assertion>
+                    
+                </sentence>
+                <sentence>
+                    <sentenceText>The Milky
+                        Way is a spiral galaxy, a flattish disc of stars with two spiral arms emerging from its
+                        central nucleus.</sentenceText>
+                    <semanticRelation>ClassInclusion/Hyponym</semanticRelation>
+                    <context>no</context>
+                    <assertion>hyponym(spiralGalaxy,milkyWayGalaxy)</assertion>
+                    <semanticRelation>PartWhole/ObjectComponent</semanticRelation>
+                    <context>no</context>
+                    <assertion>component(spiralGalaxy, flattish disc)</assertion>
+                      <assertion>component(spiralGalaxy, spiralArms)</assertion>
+                        <assertion>component(spiralGalaxy, centralNucleus)</assertion>
+                </sentence>
+
+
+                
+            </sentences>
+        </paragraph>
+        
+        <paragraph>
+            <id_paragraph>3</id_paragraph>
+            <paragraphText>         Measurement in space is quite different from measurement on Earth. Some
+                terrestrial distances can be expressed as intervals of time, the time to fly from one
+                continent to another or the time it takes to drive to work, for example. By comparison
+                with these familiar yardsticks, the distances to the galaxies are incomprehensibly large,
+                but they too are made more manageable by using a time calibration, in this case the
+                distance that light travels in one year. On such a scale the nearest giant spiral galaxy,
+                the Andromeda galaxy, is two million light years away. The most distant luminous
+                objects seen by telescopes are probably ten thousand million light years away. Their
+                light was already halfway here before the Earth even formed. The light from the nearby
+                Virgo galaxy set out when reptiles still dominated the animal world.
+                
+                
+            </paragraphText>
+            <sentences>
+                
+                
+            </sentences>
+        </paragraph>
+        
+        
+    </paragraphs>
+    
+    
+    <questionAnswerBlock>
+        <questions>
+            
+            <question>
+                <questionText> The word "major" in line 1 is closest in meaning to
+                    
+
+                    
+                </questionText>
+                <answers>
+                    <answer>
+                        <answerText>   intense
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>synonym(position,job)</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>  principal
+                            
+                            
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion> no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> huge		 		</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        
+                        <assertion>synonym(major,huge)</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> unique		</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                        
+                    </answer>
+                    
+                </answers>
+            </question>
+            
+            <question>
+                <questionText> The word "obvious" in line 10 is closest in meaning to
+                  
+
+                    
+                    
+                </questionText>
+                <answers>
+                    <answer>
+                        <answerText>      discovered
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>shape</context>
+                        <assertion>synonym(obvious,discovered)</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> apparent
+                            
+                            
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion> no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> understood		 		</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>  simplistic		</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                        
+                    </answer>
+                    
+                </answers>
+            </question>
+
+                    </questions>
+    </questionAnswerBlock>
+</passage>
+
+<!--- pasaje 36 -->
+
+<passage>
+    <description>
+        <idPassage>36</idPassage>
+        <documentType>argumentative</documentType>
+        <area>history</area>
+        <topic>railroad</topic>
+    </description>
+    <paragraphs>
+        <paragraph>
+            <id_paragraph>1</id_paragraph>
+            <paragraphText>         Before the mid-1860's, the impact of the railroads in the United States was limited,
+                in the sense that the tracks ended at the Missouri River, approximately the centers of the
+                country. At that point the trains turned their freight, mail, and passengers over to
+                steamboats, wagons, and stagecoaches. This meant that wagon freighting, stagecoaching
+                and steamboating did not come to an end when the first train appeared; rather they
+                became supplements or feeders. Each new "end-of-track" became a center for animaldrawn
+                or waterborne transportation. The major effect of the railroad was to shorten the
+                distance that had to be covered by the older, slower, and more costly means. Wagon
+                freighters continued operating throughout the 1870's and 1880's and into the 1890's,
+                although over constantly shrinking routes, and coaches and wagons continued to
+                crisscross the West wherever the rails had not yet been laid.
+                
+                
+            </paragraphText>
+            <sentences>
+                <sentence>
+                    <sentenceText> The major effect of the railroad was to shorten the
+                        distance that had to be covered by the older, slower, and more costly means.</sentenceText>
+                    <semanticRelation>CausePurpose/CauseEffect</semanticRelation>
+                    <context>no</context>
+                    <assertion>effect(railroad, reduceDistance)</assertion>
+                    
+                    
+                </sentence>
+              
+                
+            </sentences>
+        </paragraph>
+        <paragraph>
+            <id_paragraph>2</id_paragraph>
+            <paragraphText> The beginning of a major change was foreshadowed in the later 1860's, when the
+                Union Pacific Railroad at last began to build westward from the Central Plaints city of
+                Omaha to meet the Central Pacific Railroad advancing eastward form California through
+                the formidable barriers of the Sierra Nevada. Although President Abraham Lincoln
+                signed the original Pacific Railroad bill in 1862 and a revised, financially much more
+                generous version in 1864, little construction was completed until 1865 on the Central
+                Pacific and 1866 on the Union Pacific. The primary reason was skepticism that a
+                railroad built through so challenging and thinly settled a stretch of desert, mountain,
+                and semiarid plain could pay a profit. In the words of an economist, this was a case of
+                "premature enterprise", where not only the cost of construction but also the very high
+                risk deterred private investment. In discussing the Pacific Railroad bill, the chair of the
+                congressional committee bluntly stated that without government subsidy no one would
+                undertake so unpromising a venture; yet it was a national necessity to link East and
+                West together.
+                
+            </paragraphText>
+            
+            <sentence>
+                <sentenceText> The primary reason was skepticism that a
+                    railroad built through so challenging and thinly settled a stretch of desert, mountain,
+                    and semiarid plain could pay a profit. </sentenceText>
+                <semanticRelation>CausePurpose/CauseEffect</semanticRelation>
+                <context>no</context>
+                <assertion>effect(railroad, skepticism)</assertion>
+                
+            </sentence>
+        </paragraph>
+        
+    </paragraphs>
+    
+    
+    <questionAnswerBlock>
+        <questions>
+            <question>
+                <questionText>The word "supplements" in line 6 is closest in meaning to
+                    
+                    
+                    
+                    
+                </questionText>
+                <answers>
+                    <answer>
+                        <answerText> extensions
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>synonym(suplements,extensions)</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> reformers
+                            
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>  dependents	 	</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>influences		</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    
+                </answers>
+            </question>
+            <question>
+                <questionText> The word "subsidy" in line 23 is closest in meaning to
+                   
+                    
+                </questionText>
+                <answers>
+                    <answer>
+                        <answerText>   persuasion
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> financing
+                            
+                            
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>support</context>
+                        <assertion>synonym(subsidy,financing)</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>  explanation		</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> penalty			</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                        
+                    </answer>
+                    
+                </answers>
+            </question>
+        </questions>
+    </questionAnswerBlock>
+</passage>
+
+<!--- pasaje 37 -->
+
+<passage>
+    <description>
+        <idPassage>37</idPassage>
+        <documentType>expository</documentType>
+        <area>history</area>
+        <topic>numbers</topic>
+    </description>
+    <paragraphs>
+        <paragraph>
+            <id_paragraph>1</id_paragraph>
+            <paragraphText>          Humanity's primal efforts to systematize the concepts of size, shapes, and number
+                are usually regarded as the earliest mathematics. However, the concept of number and
+                the counting process developed so long before the time of recorded history (there is
+                archaeological evidence that counting was employed by humans as far back as 50,000
+                years ago) that the manner of this development is largely conjectural. Imaging how it
+                probably came about is not difficult. The argument that humans, even in prehistoric
+                times, had some number sense, at least to the extent of recognizing the concepts of
+                more and less when some objects were added to or taken away from a small group,
+                seems fair, for studies have shown that some animal possess such a sense.
+                
+                
+            </paragraphText>
+            <sentences>
+               
+               
+                
+            </sentences>
+        </paragraph>
+        <paragraph>
+            <id_paragraph>2</id_paragraph>
+            <paragraphText>  With the gradual evolution of society, simple counting became imperative. A tribe
+                had to know how many members it had and how many enemies, and shepherd needed
+                to know if the flock of sheep was decreasing in size. Probably the earliest way of keeping
+                a count was by some simple tally method, employing the principle of one-to-one
+                correspondence. In keeping a count of sheep, for example, one finger per sheep could
+                be turned under. Counts could also be maintained by making scratches in the dirt or on
+                a stone, by cutting notches in a piece of wood, or by tying knots in a string.
+                
+              
+                
+            </paragraphText>
+            
+            <sentence>
+                <sentenceText> A tribe had to know how many members it had and how many enemies, and shepherd needed
+                    to know if the flock of sheep was decreasing in size.</sentenceText>
+                <semanticRelation>CausePurpose/AgentGoal</semanticRelation>
+                <context>no</context>
+                <assertion>agentGoal(tribu, enemiesCounting)</assertion>
+                <assertion>agentGoal(tribu, membersCounting)</assertion>
+                <assertion>agentGoal(shepherd, sheepCounting)</assertion>
+               
+                
+            </sentence>
+        </paragraph>
+        
+        
+        <paragraph>
+            <id_paragraph>3</id_paragraph>
+            <paragraphText>
+                
+                Then, perhaps later, an assortment of vocal sounds was developed as a word tally
+                against the number of objects in a small group. And still later, with the refinement of
+                writing, a set of signs was devised to stand for these numbers. Such an imagined
+                development is supported by reports of anthropologists in their studies of present-day
+                societies that are thought to be similar to those of early humans.
+                
+            </paragraphText>
+            
+            
+        </paragraph>
+    </paragraphs>
+    
+    
+    <questionAnswerBlock>
+        <questions>
+            <question>
+                <questionText>The word "conjectural" in line 5 is closest in meaning to
+                    
+                    
+                </questionText>
+                <answers>
+                    <answer>
+                        <answerText> complex
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>based on guessing
+                            
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>property</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>     unbelievable
+	</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> supported by careful research		</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>synonym(conjectural,supported)</assertion>
+                    </answer>
+                    
+                </answers>
+            </question>
+            <question>
+                <questionText> Which of the following is NOT mentioned as an early methods of counting?
+                    
+                    
+                </questionText>
+                <answers>
+                    <answer>
+                        <answerText>  Cutting notches
+                        </answerText>
+                        <semanticRelation>PartWhole/CollectionMember</semanticRelation>
+                        <context>no</context>
+                        <assertion>colectionMember(countingMethods,cuttingNotches)</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> Bending fingers
+                           
+                            
+                            
+                        </answerText>
+                        <semanticRelation>PartWhole/CollectionMember</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>   piling stones				</answerText>
+                        <semanticRelation>PartWhole/CollectionMember</semanticRelation>
+                        <context>no</context>
+                        
+                        <assertion>colectionMember(countingMethods,pilingStones)</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> Tying knots 		</answerText>
+                        <semanticRelation>PartWhole/CollectionMember</semanticRelation>
+                        <context>no</context>
+                        <assertion>colectionMember(countingMethods,tyingKnots)</assertion>
+                        
+                    </answer>
+                    
+                </answers>
+            </question>
+        </questions>
+    </questionAnswerBlock>
+</passage>
+
+<!--- pasaje 38 -->
+
+<passage>
+    <description>
+        <idPassage>38</idPassage>
+        <documentType>narrative</documentType>
+        <area>history</area>
+        <topic>mining</topic>
+    </description>
+    <paragraphs>
+        <paragraph>
+            <id_paragraph>1</id_paragraph>
+            <paragraphText>          As the merchant class expanded in the eighteenth-century North American colonies,
+                the silversmith and the coppersmith businesses rose to serve it. Only a few silversmiths
+                were available in New York or Boston in the late seventeenth century, but in the
+                eighteenth century they could be found in all major colonial cities. No other colonial
+                 artisans rivaled the silversmiths' prestige. They handled the most expensive materials
+                and possessed direct connections to prosperous colonies merchants. Their products,
+                primarily silver plates and bowls, reflected their exalted status and testified to their
+                customers' prominence.
+                
+                
+            </paragraphText>
+            <sentences>
+                <sentence>
+                    <sentenceText> Their products,
+                        primarily silver plates and bowls, reflected their exalted status and testified to their
+                        customers' prominence.
+</sentenceText>
+                    <semanticRelation>ClassInclusion/Hyponym</semanticRelation>
+                    <context>no</context>
+                    <assertion>hyponym(miningProduct,plate)</assertion>
+                    <assertion>hyponym(miningProduct,bowl)</assertion>
+                    
+                    
+                </sentence>
+               
+              
+                
+            </sentences>
+        </paragraph>
+        <paragraph>
+            <id_paragraph>2</id_paragraph>
+            <paragraphText> Silver stood as one of the surest ways to store wealth at a time before neighborhood
+                banks existed. Unlike the silver coins from which they were made, silver articles were
+                readily identifiable. Often formed to individual specifications, they always carried the
+                silversmith's distinctive markings and consequently could be traced and retrieved.
+                Customers generally secured the silver for the silver objects they ordered. They
+                saved coins, took them to smiths, and discussed the type of pieces they desired.
+                Silversmiths complied with these requests by melting the money in a small furnace,
+                adding a bit of copper to form a stronger alloy, and casting the alloy in rectangular
+                blocks. They hammered these ingots to the appropriate thickness by hand, shaped
+                them, and pressed designs into them for adornment. Engraving was also done by hand.
+                In addition to plates and bowls, some customers sought more intricate products, such as
+                silver teapots. These were made by shaping or casting parts separately and then
+                soldering them together.
+                
+                
+                
+            </paragraphText>
+            <sentences>
+            <sentence>
+                <sentenceText>  In addition to plates and bowls, some customers sought more intricate products, such as
+                    silver teapots.</sentenceText>
+                <semanticRelation>ClassInclusion/Hyponym</semanticRelation>
+                <context>no</context>
+                <assertion>hyponym(miningProduct,teapots)</assertion>
+            </sentence>
+            </sentences>
+        </paragraph>
+        
+        <paragraph>
+            <id_paragraph>3</id_paragraph>
+            <paragraphText> Colonial coppersmithing also came of age in the early eighteenth century and
+                prospered in northern cities. Copper's ability to conduct heat efficiently and to resist
+                corrosion contributed to its attractiveness. But because it was expensive in colonial
+                America, coppersmiths were never very numerous. Virtually all copper worked by
+                smiths was imported as sheets or obtained by recycling old copper goods. Copper was
+                used for practical items, but it was not admired for its beauty. Coppersmiths employed
+                it to fashion pots and kettles for the home. They shaped it in much the same manner as
+                silver or melted it in a foundry with lead or tin. They also mixed it with zinc to make
+                brass for maritime and scientific instruments.
+                
+            </paragraphText>
+            <sentences>
+            
+            </sentences>
+        </paragraph>
+    </paragraphs>
+    
+    
+    <questionAnswerBlock>
+        <questions>
+            <question>
+                <questionText>The word "exalted" in line 7 is closest in meaning to
+                   
+                    
+                    
+                    
+                </questionText>
+                <answers>
+                    <answer>
+                        <answerText>  unusual
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>uncertain
+                            
+                        </answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>   surprising		</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> superior	</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>status</context>
+                        <assertion>synonym(exalted,superior)</assertion>
+                    </answer>
+                    
+                </answers>
+            </question>
+            <question>
+                <questionText> The passage mentions all of the following as uses for copper in colonial America EXCEPT
+                                   </questionText>
+                <answers>
+                    <answer>
+                        <answerText>   cooking pots
+                            
+
+                        </answerText>
+                        <semanticRelation>CausePurpose/InstrumentGoal</semanticRelation>
+                        <context>no</context>
+                        <assertion>instrumentGoal(copper,cookingPotsCreation)</assertion>
+                    </answer>
+                    <answer>
+                        <answerText> scientific instruments
+                            
+                            
+                        </answerText>
+                        <semanticRelation>CausePurpose/InstrumentGoal</semanticRelation>
+                        <context>no</context>
+                        <assertion>instrumentGoal(copper,scientificInstrumentsCreation)</assertion>
+                    </answer>
+                    <answer>
+                        <answerText>   musical instruments				</answerText>
+                        <semanticRelation>Similar/Synonym</semanticRelation>
+                        <context>no</context>
+                        <assertion>no</assertion>
+                        
+                    </answer>
+                    <answer>
+                        <answerText> maritime instruments
+		</answerText>
+                        <semanticRelation>CausePurpose/InstrumentGoal</semanticRelation>
+                        <context>no</context>
+                        <assertion>instrumentGoal(copper,maritimeInstrumentsCreation)</assertion>
+                        
+                    </answer>
+                    
+                </answers>
+            </question>
+        </questions>
+    </questionAnswerBlock>
+</passage>
+
+<!--- pasaje 39 -->
+
+
+
+</passages>
